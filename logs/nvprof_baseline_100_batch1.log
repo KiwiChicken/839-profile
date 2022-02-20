@@ -1,0 +1,199 @@
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-37
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 1 | Loss: 50.360138
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 2 | Loss: 67.157070
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 3 | Loss: 64.027198
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 4 | Loss: 72.852920
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 5 | Loss: 80.387266
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 6 | Loss: 80.404493
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 7 | Loss: 77.404961
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 8 | Loss: 78.696658
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 9 | Loss: 78.189493
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 10 | Loss: 78.265052
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 11 | Loss: 75.391374
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 12 | Loss: 76.452343
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 13 | Loss: 77.344557
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 14 | Loss: 76.816561
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 15 | Loss: 75.018049
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 16 | Loss: 77.762516
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 17 | Loss: 77.719453
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 18 | Loss: 78.015225
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 19 | Loss: 78.831122
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 20 | Loss: 79.817019
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 21 | Loss: 80.979585
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 22 | Loss: 80.903969
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 23 | Loss: 80.728038
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 24 | Loss: 81.371498
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 25 | Loss: 82.518908
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 26 | Loss: 82.417343
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 27 | Loss: 82.406085
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 28 | Loss: 82.876721
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 29 | Loss: 83.498253
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 30 | Loss: 84.295641
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 31 | Loss: 85.501548
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 32 | Loss: 85.263019
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 33 | Loss: 86.316831
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 34 | Loss: 87.820999
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 35 | Loss: 88.502296
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 36 | Loss: 91.510705
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 37 | Loss: 91.610314
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 38 | Loss: 92.430404
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 39 | Loss: 93.820636
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 40 | Loss: 94.522099
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 41 | Loss: 95.444684
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 42 | Loss: 96.766681
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 43 | Loss: 96.939861
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 44 | Loss: 96.497137
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 45 | Loss: 97.414819
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 46 | Loss: 97.725528
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 47 | Loss: 98.266909
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 48 | Loss: 99.823905
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 49 | Loss: 100.161030
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 50 | Loss: 100.384248
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 51 | Loss: 101.176869
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 52 | Loss: 102.213162
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 53 | Loss: 102.614878
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 54 | Loss: 103.613402
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 55 | Loss: 103.947901
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 56 | Loss: 104.120058
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 57 | Loss: 104.789214
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 58 | Loss: 106.194094
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 59 | Loss: 106.431950
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 60 | Loss: 107.317691
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 61 | Loss: 108.268274
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 62 | Loss: 109.056110
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 63 | Loss: 109.847703
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 64 | Loss: 110.066017
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 65 | Loss: 110.634317
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 66 | Loss: 111.471948
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 67 | Loss: 111.564868
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 68 | Loss: 112.497081
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 69 | Loss: 114.361107
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 70 | Loss: 114.629310
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 71 | Loss: 115.731978
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 72 | Loss: 116.853738
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 73 | Loss: 117.680100
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 74 | Loss: 118.631029
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 75 | Loss: 119.522872
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 76 | Loss: 120.043338
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 77 | Loss: 120.337973
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 78 | Loss: 120.977413
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 79 | Loss: 121.611784
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 80 | Loss: 122.250280
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 81 | Loss: 122.702952
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 82 | Loss: 123.693304
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 83 | Loss: 124.789027
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 84 | Loss: 125.151084
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 85 | Loss: 125.873834
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 86 | Loss: 126.769086
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 87 | Loss: 127.536476
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 88 | Loss: 127.933413
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 89 | Loss: 128.795018
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 90 | Loss: 130.058223
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 91 | Loss: 130.484526
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 92 | Loss: 131.729084
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 93 | Loss: 132.435152
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 94 | Loss: 133.810909
+Epoch 0 |   Training | Elapsed Time: 0:00:21 | Steps: 95 | Loss: 134.619781
+Epoch 0 |   Training | Elapsed Time: 0:00:21 | Steps: 96 | Loss: 135.314934
+Epoch 0 |   Training | Elapsed Time: 0:00:21 | Steps: 97 | Loss: 136.398900
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 98 | Loss: 137.800557
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 99 | Loss: 139.507686
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 99 | Loss: 139.507686
+Epoch 0 | Validation | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:01 | Steps: 1 | Loss: 40.073658 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 4 | Loss: 42.302814 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 7 | Loss: 44.709817 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 10 | Loss: 47.906436 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 11 | Loss: 49.127647 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 14 | Loss: 53.756357 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 16 | Loss: 53.622921 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 18 | Loss: 55.280761 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 20 | Loss: 56.836848 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 22 | Loss: 63.124535 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 25 | Loss: 65.815050 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 27 | Loss: 66.116431 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 29 | Loss: 65.934104 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 31 | Loss: 67.172020 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 33 | Loss: 67.088195 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 36 | Loss: 68.951466 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 38 | Loss: 69.807927 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 40 | Loss: 70.150726 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 42 | Loss: 70.456285 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 45 | Loss: 71.997573 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 47 | Loss: 74.255577 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 50 | Loss: 75.602019 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 52 | Loss: 77.582875 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 54 | Loss: 78.729504 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 56 | Loss: 80.554487 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 58 | Loss: 80.941400 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 60 | Loss: 81.790063 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 62 | Loss: 83.525231 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 64 | Loss: 85.285349 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 66 | Loss: 87.638389 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 68 | Loss: 89.741612 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 70 | Loss: 90.246711 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 72 | Loss: 91.885329 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 74 | Loss: 94.308660 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 76 | Loss: 96.714137 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 78 | Loss: 99.026261 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 80 | Loss: 101.942980 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 82 | Loss: 103.936651 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 84 | Loss: 106.531743 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 86 | Loss: 107.909055 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 88 | Loss: 110.342036 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 90 | Loss: 112.712099 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 92 | Loss: 114.908987 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 94 | Loss: 118.786948 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 95 | Loss: 120.323673 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 96 | Loss: 121.944073 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 97 | Loss: 123.142647 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 98 | Loss: 124.445166 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 99 | Loss: 126.921823 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 99 | Loss: 126.921823 | Dataset: set/clips/100_dev.csv
+I Saved new best validating model with loss 126.921823 to: /root/.local/share/deepspeech/checkpoints/best_dev-136
+--------------------------------------------------------------------------------
+I FINISHED optimization in 0:00:32.243073

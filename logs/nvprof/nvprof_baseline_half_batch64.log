@@ -1,0 +1,83 @@
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-6695
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 1 | Loss: 50.533749
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 2 | Loss: 53.826414
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 3 | Loss: 59.614089
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 4 | Loss: 64.603242
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 5 | Loss: 69.994038
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 6 | Loss: 74.936834
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 7 | Loss: 78.780434
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 8 | Loss: 82.781584
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 9 | Loss: 87.974101
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 10 | Loss: 93.041251
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 11 | Loss: 99.169026
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 12 | Loss: 105.231992
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 13 | Loss: 110.930918
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 14 | Loss: 117.727271
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 15 | Loss: 125.315545
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 16 | Loss: 133.372823
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 17 | Loss: 144.019536
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 17 | Loss: 144.019536
+Epoch 0 | Validation | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 1 | Loss: 47.206455 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 2 | Loss: 51.656954 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 3 | Loss: 56.220081 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 4 | Loss: 62.489058 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 5 | Loss: 67.457513 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 6 | Loss: 71.288642 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 7 | Loss: 75.450094 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 8 | Loss: 80.774695 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 9 | Loss: 85.572378 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 10 | Loss: 92.077402 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 11 | Loss: 99.227177 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 12 | Loss: 106.598800 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 13 | Loss: 115.394648 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 14 | Loss: 126.261245 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 15 | Loss: 141.389652 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 15 | Loss: 141.389652 | Dataset: set/clips/half_dev.csv
+I Saved new best validating model with loss 141.389652 to: /root/.local/share/deepspeech/checkpoints/best_dev-6712
+--------------------------------------------------------------------------------
+I FINISHED optimization in 0:00:18.786263

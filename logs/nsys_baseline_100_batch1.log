@@ -1,0 +1,108 @@
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-136
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+Generating '/tmp/nsys-report-803e.qdstrm'
+[1/8] [0%                          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [0%                          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [5%                          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [6%                          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [8%                          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [====28%                     ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [=======36%                  ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [========41%                 ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [=========44%                ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [=========45%                ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==========47%               ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==========48%               ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==========49%               ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [===========50%              ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [===========51%              ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [===========52%              ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [===========53%              ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [============57%             ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [=============60%            ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==============61%           ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==============62%           ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==============63%           ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [==============64%           ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [===============65%          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [===============66%          ] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [========================100%] nsys_baseline_100_batch1.nvvp.nsys-rep[1/8] [========================100%] nsys_baseline_100_batch1.nvvp.nsys-rep
+[2/8] [0%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [1%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [2%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [3%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [4%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [5%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [6%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [7%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [8%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [9%                          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [10%                         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [11%                         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [12%                         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [13%                         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [14%                         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=15%                        ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=16%                        ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=17%                        ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==18%                       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==19%                       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==20%                       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==21%                       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===22%                      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===23%                      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===24%                      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====25%                     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====26%                     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====27%                     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====28%                     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====29%                    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====30%                    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====31%                    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====32%                    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [======33%                   ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [======34%                   ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [======35%                   ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======36%                  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======37%                  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======38%                  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======39%                  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========40%                 ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========41%                 ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========42%                 ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=========43%                ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=========44%                ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=========45%                ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=========46%                ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==========47%               ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==========48%               ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==========49%               ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===========50%              ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===========51%              ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===========52%              ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===========53%              ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [============54%             ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [============55%             ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [============56%             ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [============57%             ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=============58%            ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=============59%            ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=============60%            ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==============61%           ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==============62%           ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==============63%           ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==============64%           ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===============65%          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===============66%          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===============67%          ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [================68%         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [================69%         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [================70%         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [================71%         ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=================72%        ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=================73%        ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=================74%        ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==================75%       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==================76%       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==================77%       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [==================78%       ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===================79%      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===================80%      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===================81%      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [===================82%      ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====================83%     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====================84%     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [====================85%     ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====================86%    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====================87%    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====================88%    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=====================89%    ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [======================90%   ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [======================91%   ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [======================92%   ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======================93%  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======================94%  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======================95%  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [=======================96%  ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========================97% ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========================98% ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========================99% ] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========================100%] nsys_baseline_100_batch1.nvvp.sqlite[2/8] [========================100%] nsys_baseline_100_batch1.nvvp.sqlite
+[3/8] Executing 'nvtxsum' stats report
+[4/8] Executing 'osrtsum' stats report
+
+Operating System Runtime API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)   Max (ns)    StdDev (ns)            Name         
+ --------  ---------------  ---------  -----------  -----------  --------  -----------  ------------  ----------------------
+     61.9      87613156339        173  506434429.7  319798047.0     52682  11231562010  1413843418.7  pthread_cond_wait     
+     16.4      23161113997         45  514691422.2     133150.0      1714  10034998308  2095286326.8  futex                 
+      9.6      13541239675        153   88504834.5  100246763.0     10229    100325995    30509375.1  poll                  
+      9.2      13005360193         27  481680007.1  500201986.0    299369    500217747    96204892.6  pthread_cond_timedwait
+      1.1       1595350885         81   19695689.9   20548218.0      1546     39328432    13280478.2  pthread_mutex_lock    
+      0.7       1025119059       4611     222320.3       2755.0      1000    153910469     4670063.8  read                  
+      0.5        663045602         29   22863641.4      56426.0     40937    109553015    40119777.3  waitpid               
+      0.2        225538255         21   10739916.9    9367781.0   6082609     30517078     5208887.2  fork                  
+      0.1        188078041        105    1791219.4      96146.0      1894    136098915    13301390.8  pthread_join          
+      0.1        163828717         10   16382871.7       3604.0      1424     81280502    34191950.8  pread                 
+      0.1         91755918        953      96281.1      10121.0      1086     30163150      996893.8  ioctl                 
+      0.0         40465508        174     232560.4     204232.0     72906       578748      123810.0  pthread_create        
+      0.0         36198778       4007       9033.9       3578.0      1841     20071353      317026.4  open64                
+      0.0         21158589         71     298008.3       4741.0      1035     18773005     2235379.7  fopen                 
+      0.0         16709561         11    1519051.0     148982.0     60675     14685659     4374726.3  sem_timedwait         
+      0.0          8888141        120      74067.8      21009.5      1790       331127       84830.7  mmap                  
+      0.0          6740320       1137       5928.2       3506.0      1044      1283069       38783.7  mmap64                
+      0.0          4942320         49     100863.7      99262.0     93800       182481       11952.0  sleep                 
+      0.0          4820346        673       7162.5       2808.0      1323        92214       11547.2  munmap                
+      0.0          4079879         71      57463.1      82303.0      2312       117790       37919.6  fgets                 
+      0.0          3226942          4     806735.5     809752.0    324970      1282468      530269.3  sem_wait              
+      0.0          2589238        318       8142.3       1738.5      1179      1890835      105933.0  fopen64               
+      0.0          1102066        239       4611.2       3603.0      1004        48980        4183.4  pthread_cond_signal   
+      0.0           660862        215       3073.8       2137.0      1044        25741        3335.0  fflush                
+      0.0           425692         93       4577.3       3303.0      1061        35139        4599.0  fread                 
+      0.0           337562         47       7182.2       6604.0      2701        12313        2185.5  pipe2                 
+      0.0           265293        110       2411.8       2016.0      1044        13171        1798.3  fclose                
+      0.0           209973         26       8075.9       7566.5      1874        20797        5724.4  write                 
+      0.0           167786         51       3289.9       2344.0      1034         7315        1730.9  fputs                 
+      0.0           162726         19       8564.5       7938.0      2149        24642        5300.8  open                  
+      0.0           141572         16       8848.3       5215.5      2185        22259        8291.9  getc                  
+      0.0           129935         40       3248.4       2115.0      2086         9166        2286.4  putc                  
+      0.0            54992         34       1617.4       1671.0      1009         2557         370.7  fcntl                 
+      0.0            45577         21       2170.3       1356.0      1013        11450        2220.2  signal                
+      0.0            27729          8       3466.1       3241.5      1851         5336        1701.3  dup2                  
+      0.0            25619         15       1707.9       1822.0      1000         2609         569.5  fwrite                
+      0.0            20652          3       6884.0       7967.0      2996         9689        3475.4  socket                
+      0.0            14967          4       3741.8       3584.0      2820         4979        1017.4  mprotect              
+      0.0             9394          1       9394.0       9394.0      9394         9394           0.0  connect               
+      0.0             8468          5       1693.6       1678.0      1048         2790         720.3  sigaction             
+      0.0             5811          2       2905.5       2905.5      1638         4173        1792.5  bind                  
+      0.0             5379          1       5379.0       5379.0      5379         5379           0.0  fputs_unlocked        
+      0.0             2095          2       1047.5       1047.5      1023         1072          34.6  dup                   
+
+[5/8] Executing 'cudaapisum' stats report
+
+CUDA API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls  Avg (ns)   Med (ns)  Min (ns)  Max (ns)  StdDev (ns)          Name        
+ --------  ---------------  ---------  ---------  --------  --------  --------  -----------  --------------------
+     96.8         67243607          7  9606229.6   24735.0     13580  33834965   16357994.6  cuMemcpyHtoDAsync_v2
+      1.0           668925         10    66892.5    6410.5      3527    573430     178355.1  cuStreamCreate      
+      0.8           570082          1   570082.0  570082.0    570082    570082          0.0  cuMemAlloc_v2       
+      0.7           499936          6    83322.7   10981.5      3565    453384     181358.9  cuCtxSynchronize    
+      0.3           238130          3    79376.7   69133.0     53143    115854      32586.3  cudaMemcpyAsync     
+      0.1            67873         14     4848.1    3646.5       650     13779       4256.4  cuEventRecord       
+      0.1            50142          9     5571.3    3374.0      1780     14683       4524.3  cuEventQuery        
+      0.1            44542          2    22271.0   22271.0     21777     22765        698.6  cuMemGetInfo_v2     
+      0.0            28838          7     4119.7    2825.0      2159      7116       2158.7  cuStreamWaitEvent   
+      0.0            20885          1    20885.0   20885.0     20885     20885          0.0  cuMemsetD32_v2      
+      0.0            13220          2     6610.0    6610.0      5161      8059       2049.2  cudaFree            
+      0.0            13095         11     1190.5     957.0       433      3463        829.9  cuEventCreate       
+      0.0             9198          4     2299.5    2296.5      1615      2990        661.0  cuInit              
+
+[6/8] Executing 'gpukernsum' stats report
+[7/8] Executing 'gpumemtimesum' stats report
+
+CUDA Memory Operation Statistics (by time):
+
+ Time (%)  Total Time (ns)  Count  Avg (ns)   Med (ns)  Min (ns)  Max (ns)  StdDev (ns)      Operation     
+ --------  ---------------  -----  ---------  --------  --------  --------  -----------  ------------------
+     99.3         66594175      7  9513453.6    3424.0       800  33568140   16244003.9  [CUDA memcpy HtoD]
+      0.7           475867      3   158622.3    2528.0      2432    470907     270446.5  [CUDA memcpy DtoD]
+      0.0             1280      1     1280.0    1280.0      1280      1280          0.0  [CUDA memset]     
+
+[8/8] Executing 'gpumemsizesum' stats report
+
+CUDA Memory Operation Statistics (by size):
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)      Operation     
+ ----------  -----  --------  --------  --------  --------  -----------  ------------------
+    268.534      7    38.362     0.033     0.000   134.218       65.482  [CUDA memcpy HtoD]
+    134.283      3    44.761     0.033     0.033   134.218       77.472  [CUDA memcpy DtoD]
+      0.001      1     0.001     0.001     0.001     0.001        0.000  [CUDA memset]     
+
+Generated:
+    /home/cc/keren/nsys_baseline_100_batch1.nvvp.nsys-rep
+    /home/cc/keren/nsys_baseline_100_batch1.nvvp.sqlite

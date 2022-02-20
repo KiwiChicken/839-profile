@@ -1,0 +1,92 @@
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-6757
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+Epoch 0 |   Training | Elapsed Time: 0:00:03 | Steps: 1 | Loss: 48.072609
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 2 | Loss: 51.263765
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 3 | Loss: 55.053565
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 4 | Loss: 59.009761
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 5 | Loss: 63.116277
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 6 | Loss: 67.765078
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 7 | Loss: 71.125633
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 8 | Loss: 74.833101
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 9 | Loss: 78.058749
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 10 | Loss: 81.677162
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 11 | Loss: 85.352440
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 12 | Loss: 89.285727
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 13 | Loss: 93.602347
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 14 | Loss: 98.477271
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 15 | Loss: 103.153489
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 16 | Loss: 107.357493
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 17 | Loss: 112.324496
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 18 | Loss: 117.730649
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 19 | Loss: 123.701437
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 20 | Loss: 129.627122
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 21 | Loss: 136.703969
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 22 | Loss: 145.517069
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 22 | Loss: 145.517069
+Epoch 0 | Validation | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 1 | Loss: 47.430573 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 2 | Loss: 50.278057 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 3 | Loss: 54.084652 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 4 | Loss: 58.315007 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 5 | Loss: 63.015432 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 6 | Loss: 67.171179 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 7 | Loss: 70.132913 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 8 | Loss: 73.537156 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 9 | Loss: 76.581448 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 10 | Loss: 80.719782 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 11 | Loss: 84.597195 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 12 | Loss: 88.824127 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 13 | Loss: 94.360647 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 14 | Loss: 99.713399 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 15 | Loss: 105.161563 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 16 | Loss: 111.411215 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 17 | Loss: 118.849966 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 18 | Loss: 127.912392 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 19 | Loss: 139.709055 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 19 | Loss: 139.709055 | Dataset: set/clips/half_dev.csv
+I Saved new best validating model with loss 139.709055 to: /root/.local/share/deepspeech/checkpoints/best_dev-6779
+--------------------------------------------------------------------------------
+I FINISHED optimization in 0:00:21.256671

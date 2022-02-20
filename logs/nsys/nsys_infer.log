@@ -1,0 +1,132 @@
+why should one halt on the way
+Generating '/tmp/nsys-report-eb35.qdstrm'
+[1/8] [0%                          ] nsys_infer.nsys-rep[1/8] [0%                          ] nsys_infer.nsys-rep[1/8] [1%                          ] nsys_infer.nsys-rep[1/8] [3%                          ] nsys_infer.nsys-rep[1/8] [====27%                     ] nsys_infer.nsys-rep[1/8] [====28%                     ] nsys_infer.nsys-rep[1/8] [=====29%                    ] nsys_infer.nsys-rep[1/8] [=====31%                    ] nsys_infer.nsys-rep[1/8] [=====32%                    ] nsys_infer.nsys-rep[1/8] [======33%                   ] nsys_infer.nsys-rep[1/8] [======34%                   ] nsys_infer.nsys-rep[1/8] [=======36%                  ] nsys_infer.nsys-rep[1/8] [=======37%                  ] nsys_infer.nsys-rep[1/8] [=======38%                  ] nsys_infer.nsys-rep[1/8] [=======39%                  ] nsys_infer.nsys-rep[1/8] [========40%                 ] nsys_infer.nsys-rep[1/8] [========41%                 ] nsys_infer.nsys-rep[1/8] [=========46%                ] nsys_infer.nsys-rep[1/8] [===========51%              ] nsys_infer.nsys-rep[1/8] [============55%             ] nsys_infer.nsys-rep[1/8] [=============60%            ] nsys_infer.nsys-rep[1/8] [==============61%           ] nsys_infer.nsys-rep[1/8] [================69%         ] nsys_infer.nsys-rep[1/8] [========================100%] nsys_infer.nsys-rep[1/8] [========================100%] nsys_infer.nsys-rep
+[2/8] [0%                          ] nsys_infer.sqlite[2/8] [1%                          ] nsys_infer.sqlite[2/8] [2%                          ] nsys_infer.sqlite[2/8] [3%                          ] nsys_infer.sqlite[2/8] [4%                          ] nsys_infer.sqlite[2/8] [5%                          ] nsys_infer.sqlite[2/8] [6%                          ] nsys_infer.sqlite[2/8] [7%                          ] nsys_infer.sqlite[2/8] [8%                          ] nsys_infer.sqlite[2/8] [9%                          ] nsys_infer.sqlite[2/8] [10%                         ] nsys_infer.sqlite[2/8] [11%                         ] nsys_infer.sqlite[2/8] [12%                         ] nsys_infer.sqlite[2/8] [13%                         ] nsys_infer.sqlite[2/8] [14%                         ] nsys_infer.sqlite[2/8] [=15%                        ] nsys_infer.sqlite[2/8] [=16%                        ] nsys_infer.sqlite[2/8] [=17%                        ] nsys_infer.sqlite[2/8] [==18%                       ] nsys_infer.sqlite[2/8] [==19%                       ] nsys_infer.sqlite[2/8] [==20%                       ] nsys_infer.sqlite[2/8] [==21%                       ] nsys_infer.sqlite[2/8] [===22%                      ] nsys_infer.sqlite[2/8] [===23%                      ] nsys_infer.sqlite[2/8] [===24%                      ] nsys_infer.sqlite[2/8] [====25%                     ] nsys_infer.sqlite[2/8] [====26%                     ] nsys_infer.sqlite[2/8] [====27%                     ] nsys_infer.sqlite[2/8] [====28%                     ] nsys_infer.sqlite[2/8] [=====29%                    ] nsys_infer.sqlite[2/8] [=====30%                    ] nsys_infer.sqlite[2/8] [=====31%                    ] nsys_infer.sqlite[2/8] [=====32%                    ] nsys_infer.sqlite[2/8] [======33%                   ] nsys_infer.sqlite[2/8] [======34%                   ] nsys_infer.sqlite[2/8] [======35%                   ] nsys_infer.sqlite[2/8] [=======36%                  ] nsys_infer.sqlite[2/8] [=======37%                  ] nsys_infer.sqlite[2/8] [=======38%                  ] nsys_infer.sqlite[2/8] [=======39%                  ] nsys_infer.sqlite[2/8] [========40%                 ] nsys_infer.sqlite[2/8] [========41%                 ] nsys_infer.sqlite[2/8] [========42%                 ] nsys_infer.sqlite[2/8] [=========43%                ] nsys_infer.sqlite[2/8] [=========44%                ] nsys_infer.sqlite[2/8] [=========45%                ] nsys_infer.sqlite[2/8] [=========46%                ] nsys_infer.sqlite[2/8] [==========47%               ] nsys_infer.sqlite[2/8] [==========48%               ] nsys_infer.sqlite[2/8] [==========49%               ] nsys_infer.sqlite[2/8] [===========50%              ] nsys_infer.sqlite[2/8] [===========51%              ] nsys_infer.sqlite[2/8] [===========52%              ] nsys_infer.sqlite[2/8] [===========53%              ] nsys_infer.sqlite[2/8] [============54%             ] nsys_infer.sqlite[2/8] [============55%             ] nsys_infer.sqlite[2/8] [============56%             ] nsys_infer.sqlite[2/8] [============57%             ] nsys_infer.sqlite[2/8] [=============58%            ] nsys_infer.sqlite[2/8] [=============59%            ] nsys_infer.sqlite[2/8] [=============60%            ] nsys_infer.sqlite[2/8] [==============61%           ] nsys_infer.sqlite[2/8] [==============62%           ] nsys_infer.sqlite[2/8] [==============63%           ] nsys_infer.sqlite[2/8] [==============64%           ] nsys_infer.sqlite[2/8] [===============65%          ] nsys_infer.sqlite[2/8] [===============66%          ] nsys_infer.sqlite[2/8] [===============67%          ] nsys_infer.sqlite[2/8] [================68%         ] nsys_infer.sqlite[2/8] [================69%         ] nsys_infer.sqlite[2/8] [================70%         ] nsys_infer.sqlite[2/8] [================71%         ] nsys_infer.sqlite[2/8] [=================72%        ] nsys_infer.sqlite[2/8] [=================73%        ] nsys_infer.sqlite[2/8] [=================74%        ] nsys_infer.sqlite[2/8] [==================75%       ] nsys_infer.sqlite[2/8] [==================76%       ] nsys_infer.sqlite[2/8] [==================77%       ] nsys_infer.sqlite[2/8] [==================78%       ] nsys_infer.sqlite[2/8] [===================79%      ] nsys_infer.sqlite[2/8] [===================80%      ] nsys_infer.sqlite[2/8] [===================81%      ] nsys_infer.sqlite[2/8] [===================82%      ] nsys_infer.sqlite[2/8] [====================83%     ] nsys_infer.sqlite[2/8] [====================84%     ] nsys_infer.sqlite[2/8] [====================85%     ] nsys_infer.sqlite[2/8] [=====================86%    ] nsys_infer.sqlite[2/8] [=====================87%    ] nsys_infer.sqlite[2/8] [=====================88%    ] nsys_infer.sqlite[2/8] [=====================89%    ] nsys_infer.sqlite[2/8] [======================90%   ] nsys_infer.sqlite[2/8] [======================91%   ] nsys_infer.sqlite[2/8] [======================92%   ] nsys_infer.sqlite[2/8] [=======================93%  ] nsys_infer.sqlite[2/8] [=======================94%  ] nsys_infer.sqlite[2/8] [=======================95%  ] nsys_infer.sqlite[2/8] [=======================96%  ] nsys_infer.sqlite[2/8] [========================97% ] nsys_infer.sqlite[2/8] [========================98% ] nsys_infer.sqlite[2/8] [========================99% ] nsys_infer.sqlite[2/8] [========================100%] nsys_infer.sqlite[2/8] [========================100%] nsys_infer.sqlite
+[3/8] Executing 'nvtxsum' stats report
+[4/8] Executing 'osrtsum' stats report
+
+Operating System Runtime API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)   Max (ns)   StdDev (ns)           Name         
+ --------  ---------------  ---------  -----------  -----------  ---------  ---------  -----------  ----------------------
+     69.0      27027700720       2389   11313395.0     300975.0       2563  855097477   63721989.7  pthread_cond_wait     
+     11.9       4662105563       2822    1652057.3      11368.5       1548  405851042   11676816.5  futex                 
+      7.8       3070812324        364    8436297.6      91748.5       1156   60985862   16681980.7  pthread_rwlock_wrlock 
+      5.1       2004282387         32   62633824.6  100170825.0      10492  100248199   46942315.5  poll                  
+      5.1       2000685691          4  500171422.8  500170541.5  500166648  500177960       5464.8  pthread_cond_timedwait
+      0.3        121796613        905     134581.9      13978.0       1020   27703787    1333456.6  ioctl                 
+      0.2         75489868         45    1677552.6      66355.0       2274   25778202    5387266.1  pthread_mutex_lock    
+      0.2         58976590        254     232191.3       3798.5       1012   52965087    3325778.1  read                  
+      0.1         29371216        229     128258.6       4395.0       1053    1503697     263512.1  fread                 
+      0.1         24107377        105     229594.1     176125.0      71547     780998     157095.0  pthread_create        
+      0.1         21764508        186     117013.5     100225.5      99874    2075031     161226.2  nanosleep             
+      0.0         12111272       2389       5069.6       4433.0       1841      37790       2177.6  pthread_cond_signal   
+      0.0         11893232         53     224400.6      29498.0       2160    5667889     973340.6  munmap                
+      0.0         10498336         76     138136.0     125714.5       1804     491787     132512.0  mmap                  
+      0.0          4621987         70      66028.4      71603.0       2642     105494      24910.8  pthread_rwlock_rdlock 
+      0.0          2481721        103      24094.4       5262.0       1291    1254378     123290.9  mmap64                
+      0.0          1977691         10     197769.1     144837.0      57017     940054     264912.0  sem_timedwait         
+      0.0          1300841        246       5288.0       4867.0       1709      31160       2680.4  open64                
+      0.0          1013507        147       6894.6       4993.0       1157     234167      19052.3  fopen                 
+      0.0           457413          1     457413.0     457413.0     457413     457413          0.0  fork                  
+      0.0           241924        123       1966.9       2061.0       1005       4079        705.5  fclose                
+      0.0           179997        112       1607.1       1631.0       1007       3314        292.3  fcntl                 
+      0.0            75779         11       6889.0       4430.0       1432      18563       6032.8  open                  
+      0.0            55547          1      55547.0      55547.0      55547      55547          0.0  fgets                 
+      0.0            46339         13       3564.5       2656.0       1913      10659       2350.7  write                 
+      0.0            42181          1      42181.0      42181.0      42181      42181          0.0  waitpid               
+      0.0            19310          5       3862.0       2914.0       1794       8335       2568.5  fopen64               
+      0.0            15432          3       5144.0       6251.0       2702       6479       2117.9  pipe2                 
+      0.0            12398          4       3099.5       1905.0       1043       7545       2994.5  sigaction             
+      0.0            11740          2       5870.0       5870.0       3538       8202       3297.9  socket                
+      0.0            11242          2       5621.0       5621.0       1157      10085       6313.0  fwrite                
+      0.0             7771          1       7771.0       7771.0       7771       7771          0.0  connect               
+      0.0             7543          1       7543.0       7543.0       7543       7543          0.0  fflush                
+      0.0             4745          1       4745.0       4745.0       4745       4745          0.0  fputs_unlocked        
+      0.0             3287          2       1643.5       1643.5       1580       1707         89.8  pread64               
+      0.0             2680          1       2680.0       2680.0       2680       2680          0.0  msync                 
+      0.0             2189          1       2189.0       2189.0       2189       2189          0.0  bind                  
+      0.0             1264          1       1264.0       1264.0       1264       1264          0.0  dup                   
+      0.0             1226          1       1226.0       1226.0       1226       1226          0.0  listen                
+      0.0             1093          1       1093.0       1093.0       1093       1093          0.0  putc                  
+
+[5/8] Executing 'cudaapisum' stats report
+
+CUDA API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)  Max (ns)   StdDev (ns)            Name          
+ --------  ---------------  ---------  -----------  -----------  --------  ---------  -----------  ------------------------
+     70.4       3084406561       2308    1336398.0       2143.0       300   61028859    7304952.5  cuEventRecord           
+     14.8        649456847          4  162364211.8  130159294.0       820  389137439  163215674.3  cudaFree                
+     11.7        512275055        457    1120952.0      26418.0      4426   44232920    5083257.3  cuMemcpyHtoDAsync_v2    
+      1.0         42879282        180     238218.2      71216.0      2007    3180091     409554.6  cuModuleUnload          
+      0.7         28745779          1   28745779.0   28745779.0  28745779   28745779          0.0  cuMemAlloc_v2           
+      0.5         21138300        148     142826.4       7065.5      4280    2452585     539624.1  cuCtxSynchronize        
+      0.4         15688550        656      23915.5      12367.5      4475     347315      34092.1  cudaLaunchKernel        
+      0.3         12968765        697      18606.5      14935.0      3081     326393      15548.2  cuMemcpyDtoHAsync_v2    
+      0.1          5249924       1731       3032.9       2367.0       293      91352       3146.2  cuEventQuery            
+      0.1          4348402       1154       3768.1       2759.0       418     153963       6448.6  cuStreamWaitEvent       
+      0.0          1807173         36      50199.3       5180.5      2822     215318      72473.9  cudaEventRecord         
+      0.0          1378667          1    1378667.0    1378667.0   1378667    1378667          0.0  cuMemHostAlloc          
+      0.0          1128418         36      31344.9      18314.0      6025     122641      31534.9  cudaMemsetAsync         
+      0.0           760879         36      21135.5      17177.5     13524      44491       9043.4  cudaMemcpyAsync         
+      0.0           408989          3     136329.7       8876.0      2849     397264     225995.9  cudaMalloc              
+      0.0           174029         36       4834.1       5098.0      1391       9114       1662.9  cudaEventQuery          
+      0.0           109568          1     109568.0     109568.0    109568     109568          0.0  cuMemsetD32_v2          
+      0.0            38444          1      38444.0      38444.0     38444      38444          0.0  cuMemGetInfo_v2         
+      0.0            28529          1      28529.0      28529.0     28529      28529          0.0  cudaMemcpy              
+      0.0            20550          4       5137.5       1855.0      1654      15186       6701.0  cuStreamCreate          
+      0.0            11611         10       1161.1        611.0       261       3559       1175.5  cuEventCreate           
+      0.0             8695         16        543.4        420.5       385       2095        418.9  cudaEventCreateWithFlags
+      0.0             6895          3       2298.3       2311.0      2259       2325         34.8  cuInit                  
+
+[6/8] Executing 'gpukernsum' stats report
+
+CUDA Kernel Statistics:
+
+ Time (%)  Total Time (ns)  Instances  Avg (ns)  Med (ns)  Min (ns)  Max (ns)  StdDev (ns)                                                  Name                                                
+ --------  ---------------  ---------  --------  --------  --------  --------  -----------  ----------------------------------------------------------------------------------------------------
+     90.6         30739116        137  224373.1  224350.0    223390    225534        431.2  void gemv2N_kernel<int, int, float, float, float, (int)128, (int)2, (int)4, (int)4, (int)1, cublasG…
+      3.4          1169173         27   43302.7   43264.0     42815     44224        355.3  volta_sgemm_64x32_sliced1x4_nn                                                                      
+      2.0           693628        137    5063.0    5024.0      4928      5472         92.6  _ZN10tensorflow7functor74_GLOBAL__N__50_tmpxft_0000a797_00000000_6_lstm_ops_gpu_cu_cpp1_ii_2b88fa7e…
+      1.1           373243        137    2724.4    2720.0      2464      3264         96.9  _ZN10tensorflow7functor74_GLOBAL__N__50_tmpxft_0000a797_00000000_6_lstm_ops_gpu_cu_cpp1_ii_2b88fa7e…
+      0.6           192063          9   21340.3   21344.0     21119     21728        187.0  volta_sgemm_32x32_sliced1x4_nn                                                                      
+      0.4           151228          9   16803.1   16959.0     15423     17280        572.6  void gemmSN_NN_kernel<float, (int)256, (int)4, (int)2, (int)8, (int)4, (int)4, cublasGemvTensorStri…
+      0.4           139071         45    3090.5    3168.0      2464      3616        320.9  void tensorflow::BiasNHWCKernel<float>(int, const T1 *, const T1 *, T1 *, int)                      
+      0.3           109404         36    3039.0    3008.0      2911      3840        169.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3           108703         36    3019.5    2912.0      2848      3488        184.5  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2            58753         18    3264.1    3296.0      2944      3616        271.4  void tensorflow::GatherSliceOpKernel<float, int, (int)2>(const T1 *, const T2 *, T1 *, Eigen::array…
+      0.1            30752          9    3416.9    3361.0      3296      3744        129.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1            28831          9    3203.4    3168.0      3136      3392         79.2  _ZN10tensorflow76_GLOBAL__N__52_tmpxft_00007699_00000000_6_softmax_op_gpu_cu_cpp1_ii_8272e0f922Gene…
+      0.1            28703          9    3189.2    3136.0      3104      3424         97.4  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1            23360          9    2595.6    2592.0      2560      2656         33.7  _ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_76_GLOBAL__N__52_tmpxft_…
+      0.1            23104          9    2567.1    2560.0      2560      2592         14.1  void tensorflow::functor::RowReduceKernel<const float *, float *, cub::Max>(T1, T2, int, int, T3, s…
+      0.1            22785          9    2531.7    2656.0      2272      2752        205.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1            21952          9    2439.1    2400.0      2240      2688        166.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0             4544          2    2272.0    2272.0      2112      2432        226.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+
+[7/8] Executing 'gpumemtimesum' stats report
+
+CUDA Memory Operation Statistics (by time):
+
+ Time (%)  Total Time (ns)  Count  Avg (ns)  Med (ns)  Min (ns)  Max (ns)  StdDev (ns)      Operation     
+ --------  ---------------  -----  --------  --------  --------  --------  -----------  ------------------
+     99.8        415899157    458  908076.8     896.0       768  43810461    4691544.1  [CUDA memcpy HtoD]
+      0.2           738008    697    1058.8     992.0       959      3296        192.5  [CUDA memcpy DtoH]
+      0.0            88286     36    2452.4    2384.0      2272      3008        181.4  [CUDA memcpy DtoD]
+      0.0            32637     37     882.1     800.0       799      1695        208.4  [CUDA memset]     
+
+[8/8] Executing 'gpumemsizesum' stats report
+
+CUDA Memory Operation Statistics (by size):
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)      Operation     
+ ----------  -----  --------  --------  --------  --------  -----------  ------------------
+   1700.831    458     3.714     0.002     0.000   134.218       18.918  [CUDA memcpy HtoD]
+      2.507     36     0.070     0.070     0.008     0.131        0.062  [CUDA memcpy DtoD]
+      0.462    697     0.001     0.000     0.000     0.008        0.001  [CUDA memcpy DtoH]
+      0.005     37     0.000     0.000     0.000     0.001        0.000  [CUDA memset]     
+
+Generated:
+    /home/cc/keren/nvvp/nsys/nsys_infer.nsys-rep
+    /home/cc/keren/nvvp/nsys/nsys_infer.sqlite

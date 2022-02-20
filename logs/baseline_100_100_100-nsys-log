@@ -1,0 +1,606 @@
+I Loading best validating checkpoint from /home/cc/.local/share/deepspeech/checkpoints/best_dev-99
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 1 | Loss: 42.608475
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 2 | Loss: 51.016333
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 3 | Loss: 49.274354
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 4 | Loss: 54.455773
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 5 | Loss: 59.608633
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 6 | Loss: 58.662120
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 7 | Loss: 55.024340
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 8 | Loss: 54.876859
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 9 | Loss: 54.312827
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 10 | Loss: 54.307168
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 11 | Loss: 52.010197
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 12 | Loss: 52.561512
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 13 | Loss: 53.629722
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 14 | Loss: 53.201160
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 15 | Loss: 52.335270
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 16 | Loss: 54.245963
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 17 | Loss: 54.256395
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 18 | Loss: 54.144770
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 19 | Loss: 54.271302
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 20 | Loss: 54.675987
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 21 | Loss: 55.278919
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 22 | Loss: 55.548407
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 23 | Loss: 55.612336
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 24 | Loss: 55.957937
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 25 | Loss: 56.876610
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 26 | Loss: 57.300765
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 27 | Loss: 57.327139
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 28 | Loss: 58.085872
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 29 | Loss: 59.005457
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 30 | Loss: 59.933451
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 31 | Loss: 60.199889
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 32 | Loss: 59.820547
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 33 | Loss: 60.916306
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 34 | Loss: 61.752812
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 35 | Loss: 62.786057
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 36 | Loss: 64.569181
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 37 | Loss: 65.049810
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 38 | Loss: 66.029613
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 39 | Loss: 67.121617
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 40 | Loss: 67.781670
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 41 | Loss: 68.317470
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 42 | Loss: 69.130269
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 43 | Loss: 69.653317
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 44 | Loss: 69.637310
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 45 | Loss: 70.464412
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 46 | Loss: 71.133627
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 47 | Loss: 71.941450
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 48 | Loss: 73.306866
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 49 | Loss: 73.812634
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 50 | Loss: 74.368029
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 51 | Loss: 75.040320
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 52 | Loss: 76.114735
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 53 | Loss: 76.750532
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 54 | Loss: 77.884598
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 55 | Loss: 78.435337
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 56 | Loss: 78.778633
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 57 | Loss: 79.434563
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 58 | Loss: 80.534281
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 59 | Loss: 81.152956
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 60 | Loss: 81.445182
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 61 | Loss: 82.574964
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 62 | Loss: 83.523469
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 63 | Loss: 84.316644
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 64 | Loss: 84.184544
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 65 | Loss: 84.896132
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 66 | Loss: 85.782052
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 67 | Loss: 86.115715
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 68 | Loss: 87.513653
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 69 | Loss: 88.987615
+Epoch 0 |   Training | Elapsed Time: 0:00:16 | Steps: 70 | Loss: 89.421817
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 71 | Loss: 90.639372
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 72 | Loss: 91.833560
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 73 | Loss: 92.739364
+Epoch 0 |   Training | Elapsed Time: 0:00:17 | Steps: 74 | Loss: 93.966300
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 75 | Loss: 94.975393
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 76 | Loss: 95.723998
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 77 | Loss: 96.101825
+Epoch 0 |   Training | Elapsed Time: 0:00:18 | Steps: 78 | Loss: 97.104812
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 79 | Loss: 98.039746
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 80 | Loss: 98.952791
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 81 | Loss: 99.653170
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 82 | Loss: 100.784904
+Epoch 0 |   Training | Elapsed Time: 0:00:19 | Steps: 83 | Loss: 102.084143
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 84 | Loss: 102.813461
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 85 | Loss: 103.823312
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 86 | Loss: 104.905851
+Epoch 0 |   Training | Elapsed Time: 0:00:20 | Steps: 87 | Loss: 105.865970
+Epoch 0 |   Training | Elapsed Time: 0:00:21 | Steps: 88 | Loss: 106.403446
+Epoch 0 |   Training | Elapsed Time: 0:00:21 | Steps: 89 | Loss: 107.548352
+Epoch 0 |   Training | Elapsed Time: 0:00:21 | Steps: 90 | Loss: 109.125204
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 91 | Loss: 109.778761
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 92 | Loss: 111.187432
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 93 | Loss: 112.094032
+Epoch 0 |   Training | Elapsed Time: 0:00:22 | Steps: 94 | Loss: 113.689815
+Epoch 0 |   Training | Elapsed Time: 0:00:23 | Steps: 95 | Loss: 114.745938
+Epoch 0 |   Training | Elapsed Time: 0:00:23 | Steps: 96 | Loss: 115.649066
+Epoch 0 |   Training | Elapsed Time: 0:00:23 | Steps: 97 | Loss: 116.900659
+Epoch 0 |   Training | Elapsed Time: 0:00:24 | Steps: 98 | Loss: 118.532574
+Epoch 0 |   Training | Elapsed Time: 0:00:24 | Steps: 99 | Loss: 120.547092
+Epoch 0 |   Training | Elapsed Time: 0:00:24 | Steps: 99 | Loss: 120.547092
+Epoch 0 | Validation | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 1 | Loss: 39.272442 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 3 | Loss: 42.190807 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 6 | Loss: 40.840980 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 9 | Loss: 45.511440 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 11 | Loss: 47.497223 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 14 | Loss: 52.408585 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 17 | Loss: 51.953875 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 19 | Loss: 54.698852 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 22 | Loss: 62.137641 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 25 | Loss: 64.833187 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 27 | Loss: 65.016757 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 29 | Loss: 64.674177 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 32 | Loss: 65.917872 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 34 | Loss: 66.277524 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 37 | Loss: 68.743815 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 40 | Loss: 68.568546 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 42 | Loss: 68.746851 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 45 | Loss: 70.248333 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 47 | Loss: 72.598853 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 49 | Loss: 73.912942 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 51 | Loss: 73.959653 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 53 | Loss: 76.277559 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:06 | Steps: 55 | Loss: 78.601949 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 57 | Loss: 79.263514 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 59 | Loss: 80.269037 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 61 | Loss: 80.936472 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 63 | Loss: 82.536538 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 65 | Loss: 85.009924 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 67 | Loss: 86.521106 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 69 | Loss: 88.365988 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:07 | Steps: 71 | Loss: 89.300966 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 73 | Loss: 91.911152 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 75 | Loss: 94.295641 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 77 | Loss: 96.709856 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 79 | Loss: 99.334900 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 81 | Loss: 100.998159 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:08 | Steps: 83 | Loss: 103.360093 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:09 | Steps: 85 | Loss: 104.835745 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:09 | Steps: 87 | Loss: 107.598793 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:09 | Steps: 88 | Loss: 108.753751 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:09 | Steps: 90 | Loss: 111.164315 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:09 | Steps: 92 | Loss: 113.386928 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:09 | Steps: 94 | Loss: 117.404300 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:10 | Steps: 95 | Loss: 118.966015 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:10 | Steps: 96 | Loss: 120.620921 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:10 | Steps: 97 | Loss: 121.819392 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:10 | Steps: 98 | Loss: 123.096104 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:10 | Steps: 99 | Loss: 125.615574 | Dataset: set/clips/100_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:10 | Steps: 99 | Loss: 125.615574 | Dataset: set/clips/100_dev.csv
+I Saved new best validating model with loss 125.615574 to: /home/cc/.local/share/deepspeech/checkpoints/best_dev-198
+--------------------------------------------------------------------------------
+I FINISHED optimization in 0:00:36.547769
+I Loading best validating checkpoint from /home/cc/.local/share/deepspeech/checkpoints/best_dev-198
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/weights
+Testing model on set/clips/100_test.csv
+Test epoch | Steps: 0 | Elapsed Time: 0:00:00
+Test epoch | Steps: 1 | Elapsed Time: 0:00:04
+Test epoch | Steps: 2 | Elapsed Time: 0:00:04
+Test epoch | Steps: 3 | Elapsed Time: 0:00:05
+Test epoch | Steps: 4 | Elapsed Time: 0:00:06
+Test epoch | Steps: 5 | Elapsed Time: 0:00:06
+Test epoch | Steps: 6 | Elapsed Time: 0:00:07
+Test epoch | Steps: 7 | Elapsed Time: 0:00:08
+Test epoch | Steps: 8 | Elapsed Time: 0:00:08
+Test epoch | Steps: 9 | Elapsed Time: 0:00:09
+Test epoch | Steps: 10 | Elapsed Time: 0:00:10
+Test epoch | Steps: 11 | Elapsed Time: 0:00:10
+Test epoch | Steps: 12 | Elapsed Time: 0:00:11
+Test epoch | Steps: 13 | Elapsed Time: 0:00:12
+Test epoch | Steps: 14 | Elapsed Time: 0:00:13
+Test epoch | Steps: 15 | Elapsed Time: 0:00:14
+Test epoch | Steps: 16 | Elapsed Time: 0:00:14
+Test epoch | Steps: 17 | Elapsed Time: 0:00:15
+Test epoch | Steps: 18 | Elapsed Time: 0:00:16
+Test epoch | Steps: 19 | Elapsed Time: 0:00:17
+Test epoch | Steps: 20 | Elapsed Time: 0:00:18
+Test epoch | Steps: 21 | Elapsed Time: 0:00:19
+Test epoch | Steps: 22 | Elapsed Time: 0:00:20
+Test epoch | Steps: 23 | Elapsed Time: 0:00:21
+Test epoch | Steps: 24 | Elapsed Time: 0:00:21
+Test epoch | Steps: 25 | Elapsed Time: 0:00:22
+Test epoch | Steps: 26 | Elapsed Time: 0:00:23
+Test epoch | Steps: 27 | Elapsed Time: 0:00:24
+Test epoch | Steps: 28 | Elapsed Time: 0:00:26
+Test epoch | Steps: 29 | Elapsed Time: 0:00:27
+Test epoch | Steps: 30 | Elapsed Time: 0:00:28
+Test epoch | Steps: 31 | Elapsed Time: 0:00:29
+Test epoch | Steps: 32 | Elapsed Time: 0:00:30
+Test epoch | Steps: 33 | Elapsed Time: 0:00:31
+Test epoch | Steps: 34 | Elapsed Time: 0:00:32
+Test epoch | Steps: 35 | Elapsed Time: 0:00:33
+Test epoch | Steps: 36 | Elapsed Time: 0:00:34
+Test epoch | Steps: 37 | Elapsed Time: 0:00:36
+Test epoch | Steps: 38 | Elapsed Time: 0:00:37
+Test epoch | Steps: 39 | Elapsed Time: 0:00:38
+Test epoch | Steps: 40 | Elapsed Time: 0:00:39
+Test epoch | Steps: 41 | Elapsed Time: 0:00:41
+Test epoch | Steps: 42 | Elapsed Time: 0:00:42
+Test epoch | Steps: 43 | Elapsed Time: 0:00:43
+Test epoch | Steps: 44 | Elapsed Time: 0:00:45
+Test epoch | Steps: 45 | Elapsed Time: 0:00:46
+Test epoch | Steps: 46 | Elapsed Time: 0:00:47
+Test epoch | Steps: 47 | Elapsed Time: 0:00:49
+Test epoch | Steps: 48 | Elapsed Time: 0:00:50
+Test epoch | Steps: 49 | Elapsed Time: 0:00:51
+Test epoch | Steps: 50 | Elapsed Time: 0:00:53
+Test epoch | Steps: 51 | Elapsed Time: 0:00:54
+Test epoch | Steps: 52 | Elapsed Time: 0:00:55
+Test epoch | Steps: 53 | Elapsed Time: 0:00:57
+Test epoch | Steps: 54 | Elapsed Time: 0:00:58
+Test epoch | Steps: 55 | Elapsed Time: 0:01:00
+Test epoch | Steps: 56 | Elapsed Time: 0:01:01
+Test epoch | Steps: 57 | Elapsed Time: 0:01:03
+Test epoch | Steps: 58 | Elapsed Time: 0:01:04
+Test epoch | Steps: 59 | Elapsed Time: 0:01:06
+Test epoch | Steps: 60 | Elapsed Time: 0:01:07
+Test epoch | Steps: 61 | Elapsed Time: 0:01:09
+Test epoch | Steps: 62 | Elapsed Time: 0:01:10
+Test epoch | Steps: 63 | Elapsed Time: 0:01:12
+Test epoch | Steps: 64 | Elapsed Time: 0:01:14
+Test epoch | Steps: 65 | Elapsed Time: 0:01:15
+Test epoch | Steps: 66 | Elapsed Time: 0:01:17
+Test epoch | Steps: 67 | Elapsed Time: 0:01:18
+Test epoch | Steps: 68 | Elapsed Time: 0:01:20
+Test epoch | Steps: 69 | Elapsed Time: 0:01:22
+Test epoch | Steps: 70 | Elapsed Time: 0:01:24
+Test epoch | Steps: 71 | Elapsed Time: 0:01:26
+Test epoch | Steps: 72 | Elapsed Time: 0:01:27
+Test epoch | Steps: 73 | Elapsed Time: 0:01:29
+Test epoch | Steps: 74 | Elapsed Time: 0:01:31
+Test epoch | Steps: 75 | Elapsed Time: 0:01:33
+Test epoch | Steps: 76 | Elapsed Time: 0:01:35
+Test epoch | Steps: 77 | Elapsed Time: 0:01:37
+Test epoch | Steps: 78 | Elapsed Time: 0:01:39
+Test epoch | Steps: 79 | Elapsed Time: 0:01:41
+Test epoch | Steps: 80 | Elapsed Time: 0:01:43
+Test epoch | Steps: 81 | Elapsed Time: 0:01:45
+Test epoch | Steps: 82 | Elapsed Time: 0:01:48
+Test epoch | Steps: 83 | Elapsed Time: 0:01:50
+Test epoch | Steps: 84 | Elapsed Time: 0:01:52
+Test epoch | Steps: 85 | Elapsed Time: 0:01:55
+Test epoch | Steps: 86 | Elapsed Time: 0:01:57
+Test epoch | Steps: 87 | Elapsed Time: 0:02:00
+Test epoch | Steps: 88 | Elapsed Time: 0:02:02
+Test epoch | Steps: 89 | Elapsed Time: 0:02:05
+Test epoch | Steps: 90 | Elapsed Time: 0:02:07
+Test epoch | Steps: 91 | Elapsed Time: 0:02:10
+Test epoch | Steps: 92 | Elapsed Time: 0:02:13
+Test epoch | Steps: 93 | Elapsed Time: 0:02:16
+Test epoch | Steps: 94 | Elapsed Time: 0:02:19
+Test epoch | Steps: 95 | Elapsed Time: 0:02:22
+Test epoch | Steps: 96 | Elapsed Time: 0:02:25
+Test epoch | Steps: 97 | Elapsed Time: 0:02:28
+Test epoch | Steps: 98 | Elapsed Time: 0:02:31
+Test epoch | Steps: 99 | Elapsed Time: 0:02:34
+Test epoch | Steps: 99 | Elapsed Time: 0:02:34
+Test on set/clips/100_test.csv - WER: 1.000000, CER: 0.856964, loss: 146.921173
+--------------------------------------------------------------------------------
+Best WER: 
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.865031, loss: 484.082977
+ - wav: file://set/clips/26211be2a764c03ac68081453831a0d9b29bc431aeedcfdb94893c06fb42ff8725e6a49eb0b5d7845dc8b5cbf981a862b1866dad473128100946c4eb498b7009.wav
+ - src: "gli scritti o dottrine segnalate comunque divulgate sono fatti oggetto di attenzione da parte dell'ufficio competente il quale li sottopone all'esame del congresso"
+ - res: "                         "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.871795, loss: 328.140533
+ - wav: file://set/clips/cb749bfd6c3a56de9f82e1e1e59d12a74216d743f78a9079c144450e5f962a03afa9ce9a8e66c3cd4dc9cd7a3a69fe1aef88b4407b28051c275a4e8b4f0c5af5.wav
+ - src: "sul palco su cui erano posizionati dei teloni semi trasparenti venivano proiettate scenografie realizzate al computer"
+ - res: "                        "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.863636, loss: 302.737457
+ - wav: file://set/clips/2b7ec7f7daf37e67b4afce74a80fe99572fb066ed4856c13d56b4c3e1d5523b40209bf39b1be6deac083f1e04e6d3921013ccbf9d51879153c63b10a5d6987b2.wav
+ - src: "diverse reti di scienziati educatori artisti ingegneri e altri si incontreranno per innovare in maniera libera"
+ - res: "                         "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.871287, loss: 295.473663
+ - wav: file://set/clips/b7782132b9e710d9dc2b3a1b7d4b2efbc612bec3f2c4c01b907c713bf8eb811920a6689674fdbd9b48338cf677680c5316baccd7ea43e16596b0dabc4767c16d.wav
+ - src: "l'agenzia con delibera del consiglio direttivo adotta i provvedimenti di distruzione o di demolizione"
+ - res: "                          "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.816327, loss: 291.940887
+ - wav: file://set/clips/4c0638a59689cc0c12c97c5037bc8f7c05387e1f7f020b56cb4993a43b4f99332e035016990ab690eadb13031f9a59530e1eb66dbc6b90e6337e9dd7df76ad69.wav
+ - src: "dunque lei crede che sia stato il banchiere bypass o qualcuno dei suoi a tentare di farle la pelle"
+ - res: "                            "
+--------------------------------------------------------------------------------
+Median WER: 
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.829787, loss: 135.577698
+ - wav: file://set/clips/c5f7cea69a4d8af33644d44ae0e418efd2a216dc572bf3727a4a78865e810bc79f4c250947aede97466c336be29ec36c43c5d60ca4a3b8200c53371481cd17da.wav
+ - src: "cercando di pulire dal viso i segni della notte"
+ - res: "              "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.853659, loss: 127.793091
+ - wav: file://set/clips/e5af9d3d8f83bda28c3107fc3d88912c21b1981bf7cca11e5e4562ddd24f8a2f32b55621675d19f139328865c2a794c7ad5fea2fcc05846f39536e1938c90fbf.wav
+ - src: "sotto lo sguardo del suo vecchio scudiero"
+ - res: "             "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.828571, loss: 122.101570
+ - wav: file://set/clips/be767d90f5d0b2df5b3c75a6510c6ba31a67929ee4b09a4b201e8e8d5158090780060baf3794c036000c4f1dd4a3a009fb30c6fcf7e098bc1b9041bbf5ffab6b.wav
+ - src: "la lingua batte dove duole il dente"
+ - res: "                  "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.837838, loss: 120.088387
+ - wav: file://set/clips/e32638d2941b771d1ccf2bfe0a7ed1eda25fa4db460c436054a6606e4eeba2c590316ac538f4f0321033117bcdf8c226afe83a7e2dd70bb1de9136f9b33779c4.wav
+ - src: "in bocca chiusa non entrano le mosche"
+ - res: "               "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.850000, loss: 119.337944
+ - wav: file://set/clips/ba115a4704e3f5732b3d53d1f6240aae7f53f980defce990888bcd077eaf7d77a26b4711024c16b2dc333ad501ea7c71856eaa236ed704405f20437b6c547410.wav
+ - src: "la psicologia le scienze umane lo spazio"
+ - res: "             "
+--------------------------------------------------------------------------------
+Worst WER: 
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.875000, loss: 49.688141
+ - wav: file://set/clips/0493403e285e386222ff14f115d966bd0d6bd0acb24b9e6917d1583a70d29796e1f2febf13c126350312dbe6ddc1b4dcb290bf6fecccde128acca9c1caecad8c.wav
+ - src: "che stai facendo"
+ - res: "    "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.846154, loss: 46.601063
+ - wav: file://set/clips/6e7e8b6a7368ac351d8289646bb8236dc42d862d83c6bffd1457a5aad1a07168e5b4eabc767c559f69bc88c52103771a5609bb6c28b9a2df1174e78abc6a01c6.wav
+ - src: "fare le pulci"
+ - res: "      "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.846154, loss: 44.759762
+ - wav: file://set/clips/9413ac72c8d4bfa986120c6ba6e0a73652f8b2f3ef812162668af30bacb5d77f6727697fafb857d635a34caae9781c0b9c7e226ba6d1bd461dd373e4531335a1.wav
+ - src: "andare a ruba"
+ - res: "      "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.923077, loss: 42.832420
+ - wav: file://set/clips/c38b3e4d23f4f16256c57b4ec22628e5710263f414c6908a3526726668941679e8da46357e1ffaa56740817541933c1153c8ca16d65c811ebf90dd1ad7f2ee45.wav
+ - src: "tutto deserto"
+ - res: "     "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.888889, loss: 42.191414
+ - wav: file://set/clips/dd5a1b7559fe9231a4e192b043c5f810af8863da5dd2d163415a4e5edfa96f543a5215538c35abfc959aa76c62000d98631d61bcc0e92221af1732f94df7d4dd.wav
+ - src: "far forno"
+ - res: "      "
+--------------------------------------------------------------------------------
+Generating '/tmp/nsys-report-10fb.qdstrm'
+[1/8] [0%                          ] report5.nsys-rep[1/8] [0%                          ] report5.nsys-rep[1/8] [1%                          ] report5.nsys-rep[1/8] [0%                          ] report5.nsys-rep[1/8] [1%                          ] report5.nsys-rep[1/8] [2%                          ] report5.nsys-rep[1/8] [3%                          ] report5.nsys-rep[1/8] [2%                          ] report5.nsys-rep[1/8] [3%                          ] report5.nsys-rep[1/8] [2%                          ] report5.nsys-rep[1/8] [3%                          ] report5.nsys-rep[1/8] [2%                          ] report5.nsys-rep[1/8] [3%                          ] report5.nsys-rep[1/8] [2%                          ] report5.nsys-rep[1/8] [4%                          ] report5.nsys-rep[1/8] [3%                          ] report5.nsys-rep[1/8] [4%                          ] report5.nsys-rep[1/8] [5%                          ] report5.nsys-rep[1/8] [6%                          ] report5.nsys-rep[1/8] [7%                          ] report5.nsys-rep[1/8] [6%                          ] report5.nsys-rep[1/8] [7%                          ] report5.nsys-rep[1/8] [8%                          ] report5.nsys-rep[1/8] [7%                          ] report5.nsys-rep[1/8] [8%                          ] report5.nsys-rep[1/8] [9%                          ] report5.nsys-rep[1/8] [8%                          ] report5.nsys-rep[1/8] [9%                          ] report5.nsys-rep[1/8] [10%                         ] report5.nsys-rep[1/8] [9%                          ] report5.nsys-rep[1/8] [10%                         ] report5.nsys-rep[1/8] [11%                         ] report5.nsys-rep[1/8] [10%                         ] report5.nsys-rep[1/8] [11%                         ] report5.nsys-rep[1/8] [10%                         ] report5.nsys-rep[1/8] [11%                         ] report5.nsys-rep[1/8] [12%                         ] report5.nsys-rep[1/8] [13%                         ] report5.nsys-rep[1/8] [14%                         ] report5.nsys-rep[1/8] [=15%                        ] report5.nsys-rep[1/8] [=16%                        ] report5.nsys-rep[1/8] [=17%                        ] report5.nsys-rep[1/8] [==18%                       ] report5.nsys-rep[1/8] [==19%                       ] report5.nsys-rep[1/8] [==20%                       ] report5.nsys-rep[1/8] [==21%                       ] report5.nsys-rep[1/8] [===22%                      ] report5.nsys-rep[1/8] [===23%                      ] report5.nsys-rep[1/8] [===24%                      ] report5.nsys-rep[1/8] [====25%                     ] report5.nsys-rep[1/8] [====26%                     ] report5.nsys-rep[1/8] [=========43%                ] report5.nsys-rep[1/8] [=========44%                ] report5.nsys-rep[1/8] [=========45%                ] report5.nsys-rep[1/8] [=========46%                ] report5.nsys-rep[1/8] [==========47%               ] report5.nsys-rep[1/8] [==========48%               ] report5.nsys-rep[1/8] [==========49%               ] report5.nsys-rep[1/8] [===========50%              ] report5.nsys-rep[1/8] [===========51%              ] report5.nsys-rep[1/8] [===========52%              ] report5.nsys-rep[1/8] [===========53%              ] report5.nsys-rep[1/8] [============54%             ] report5.nsys-rep[1/8] [============55%             ] report5.nsys-rep[1/8] [============56%             ] report5.nsys-rep[1/8] [============57%             ] report5.nsys-rep[1/8] [=============58%            ] report5.nsys-rep[1/8] [=============59%            ] report5.nsys-rep[1/8] [=============60%            ] report5.nsys-rep[1/8] [==============61%           ] report5.nsys-rep[1/8] [==============62%           ] report5.nsys-rep[1/8] [==============63%           ] report5.nsys-rep[1/8] [==============64%           ] report5.nsys-rep[1/8] [===============65%          ] report5.nsys-rep[1/8] [===============66%          ] report5.nsys-rep[1/8] [===============67%          ] report5.nsys-rep[1/8] [================68%         ] report5.nsys-rep[1/8] [================69%         ] report5.nsys-rep[1/8] [================70%         ] report5.nsys-rep[1/8] [================71%         ] report5.nsys-rep[1/8] [=================72%        ] report5.nsys-rep[1/8] [=================73%        ] report5.nsys-rep[1/8] [=================74%        ] report5.nsys-rep[1/8] [========================100%] report5.nsys-rep[1/8] [========================100%] report5.nsys-rep
+[2/8] [0%                          ] report4.sqlite[2/8] [1%                          ] report4.sqlite[2/8] [2%                          ] report4.sqlite[2/8] [3%                          ] report4.sqlite[2/8] [4%                          ] report4.sqlite[2/8] [5%                          ] report4.sqlite[2/8] [6%                          ] report4.sqlite[2/8] [7%                          ] report4.sqlite[2/8] [8%                          ] report4.sqlite[2/8] [9%                          ] report4.sqlite[2/8] [10%                         ] report4.sqlite[2/8] [11%                         ] report4.sqlite[2/8] [12%                         ] report4.sqlite[2/8] [13%                         ] report4.sqlite[2/8] [14%                         ] report4.sqlite[2/8] [=15%                        ] report4.sqlite[2/8] [=16%                        ] report4.sqlite[2/8] [=17%                        ] report4.sqlite[2/8] [==18%                       ] report4.sqlite[2/8] [==19%                       ] report4.sqlite[2/8] [==20%                       ] report4.sqlite[2/8] [==21%                       ] report4.sqlite[2/8] [===22%                      ] report4.sqlite[2/8] [===23%                      ] report4.sqlite[2/8] [===24%                      ] report4.sqlite[2/8] [====25%                     ] report4.sqlite[2/8] [====26%                     ] report4.sqlite[2/8] [====27%                     ] report4.sqlite[2/8] [====28%                     ] report4.sqlite[2/8] [=====29%                    ] report4.sqlite[2/8] [=====30%                    ] report4.sqlite[2/8] [=====31%                    ] report4.sqlite[2/8] [=====32%                    ] report4.sqlite[2/8] [======33%                   ] report4.sqlite[2/8] [======34%                   ] report4.sqlite[2/8] [======35%                   ] report4.sqlite[2/8] [=======36%                  ] report4.sqlite[2/8] [=======37%                  ] report4.sqlite[2/8] [=======38%                  ] report4.sqlite[2/8] [=======39%                  ] report4.sqlite[2/8] [========40%                 ] report4.sqlite[2/8] [========41%                 ] report4.sqlite[2/8] [========42%                 ] report4.sqlite[2/8] [=========43%                ] report4.sqlite[2/8] [=========44%                ] report4.sqlite[2/8] [=========45%                ] report4.sqlite[2/8] [=========46%                ] report4.sqlite[2/8] [==========47%               ] report4.sqlite[2/8] [==========48%               ] report4.sqlite[2/8] [==========49%               ] report4.sqlite[2/8] [===========50%              ] report4.sqlite[2/8] [===========51%              ] report4.sqlite[2/8] [===========52%              ] report4.sqlite[2/8] [===========53%              ] report4.sqlite[2/8] [============54%             ] report4.sqlite[2/8] [============55%             ] report4.sqlite[2/8] [============56%             ] report4.sqlite[2/8] [============57%             ] report4.sqlite[2/8] [=============58%            ] report4.sqlite[2/8] [=============59%            ] report4.sqlite[2/8] [=============60%            ] report4.sqlite[2/8] [==============61%           ] report4.sqlite[2/8] [==============62%           ] report4.sqlite[2/8] [==============63%           ] report4.sqlite[2/8] [==============64%           ] report4.sqlite[2/8] [===============65%          ] report4.sqlite[2/8] [===============66%          ] report4.sqlite[2/8] [===============67%          ] report4.sqlite[2/8] [================68%         ] report4.sqlite[2/8] [================69%         ] report4.sqlite[2/8] [================70%         ] report4.sqlite[2/8] [================71%         ] report4.sqlite[2/8] [=================72%        ] report4.sqlite[2/8] [=================73%        ] report4.sqlite[2/8] [=================74%        ] report4.sqlite[2/8] [==================75%       ] report4.sqlite[2/8] [==================76%       ] report4.sqlite[2/8] [==================77%       ] report4.sqlite[2/8] [==================78%       ] report4.sqlite[2/8] [===================79%      ] report4.sqlite[2/8] [===================80%      ] report4.sqlite[2/8] [===================81%      ] report4.sqlite[2/8] [===================82%      ] report4.sqlite[2/8] [====================83%     ] report4.sqlite[2/8] [====================84%     ] report4.sqlite[2/8] [====================85%     ] report4.sqlite[2/8] [=====================86%    ] report4.sqlite[2/8] [=====================87%    ] report4.sqlite[2/8] [=====================88%    ] report4.sqlite[2/8] [=====================89%    ] report4.sqlite[2/8] [======================90%   ] report4.sqlite[2/8] [======================91%   ] report4.sqlite[2/8] [======================92%   ] report4.sqlite[2/8] [=======================93%  ] report4.sqlite[2/8] [=======================94%  ] report4.sqlite[2/8] [=======================95%  ] report4.sqlite[2/8] [=======================96%  ] report4.sqlite[2/8] [========================97% ] report4.sqlite[2/8] [========================98% ] report4.sqlite[2/8] [========================99% ] report4.sqlite[2/8] [========================100%] report4.sqlite[2/8] [========================100%] report4.sqlite
+[3/8] Executing 'nvtxsum' stats report
+[4/8] Executing 'osrtsum' stats report
+
+Operating System Runtime API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)     Max (ns)    StdDev (ns)            Name         
+ --------  ---------------  ---------  -----------  -----------  ---------  ------------  ------------  ----------------------
+     87.7   13567195502538      56688  239330996.0    2209784.5       1949  155327551148  1255254562.3  pthread_cond_wait     
+      7.4    1143270060294      25034   45668693.0      22512.5       1005  154872279697  1037325380.3  futex                 
+      1.9     291472997647      20033   14549643.0    5153869.0       5039     577017441    69027984.3  pthread_cond_timedwait
+      1.3     198220367012       1969  100670577.5  100219376.0       3728     177938958    13744256.1  poll                  
+      0.8     125545096906        513  244727284.4   69010600.0     299825   32165719165  1480645460.7  sem_wait              
+      0.4      66720271335       4606   14485512.7       3309.0       1001    4035533294   119068731.4  read                  
+      0.3      39982830475        398  100459373.1  100216362.5  100126927     138488301     2640494.1  select                
+      0.1      14062744518     137713     102116.3     100200.0      28118      12231582       78304.0  nanosleep             
+      0.1       9754659541        167   58411135.0   72915103.0    5821228      95265010    24577563.7  fork                  
+      0.0       6834763151       8176     835954.4      85894.5       1002     200382008     5157692.6  pthread_mutex_lock    
+      0.0       2779545195       4647     598137.6      15124.0       1005     196625911     4678440.4  pthread_join          
+      0.0       2118445084       4674     453240.3     166235.5       1021     200259984     2966111.4  pthread_rwlock_wrlock 
+      0.0       1269374222      13407      94680.0      13215.0       3946     160995226     2998201.4  waitpid               
+      0.0       1033519592       5004     206538.7     182142.0      75942       4353326       96730.8  pthread_create        
+      0.0        920573963       2309     398689.5      30119.0       1066     195219900     5191850.6  ioctl                 
+      0.0        561818346        350    1605195.3       1931.5       1007       8072292     2036312.1  fwrite                
+      0.0        511454150      52923       9664.1       5614.0       1015       3104840       67269.1  pthread_cond_signal   
+      0.0        366159795         48    7628329.1     316709.5       1009      77640614    20295245.5  pread                 
+      0.0        135237786       1631      82917.1      69381.0       1009        736469       62762.7  pthread_rwlock_rdlock 
+      0.0         81568544       1005      81162.7      10197.0       3065       2148952      191859.2  pthread_cond_broadcast
+      0.0         35529524       3556       9991.4       3611.5       1770      20895999      350356.1  open64                
+      0.0         26491173        318      83305.6       1778.5       1168      25790694     1446148.1  fopen64               
+      0.0         14748868        197      74867.4       7385.0       1976      13282159      945783.0  pipe2                 
+      0.0         13665242        157      87039.8      18852.0       1814        506936      121284.8  mmap                  
+      0.0          7794566        723      10780.9      12913.0       1896         33660        6203.5  write                 
+      0.0          7330002       1091       6718.6       4005.0       1101       1267236       39361.8  mmap64                
+      0.0          7107513        706      10067.3       4041.0       1398        155095       16441.0  munmap                
+      0.0          3210223         89      36069.9       6127.0       1264       1959861      207311.7  fopen                 
+      0.0          2208768         11     200797.1     153193.0      59432        945615      251599.1  sem_timedwait         
+      0.0           815244        217       3756.9       2229.0       2075         33514        4877.7  fflush                
+      0.0           539450        144       3746.2       3574.0       2707          9068         917.7  kill                  
+      0.0           435187        103       4225.1       2998.0       1010         14438        3105.4  fread                 
+      0.0           406676        109       3731.0       1941.0       1056         38194        5689.4  fclose                
+      0.0           197695         23       8595.4       8256.0       2208         16387        4295.1  open                  
+      0.0           172835         50       3456.7       2672.5       1068          6818        1762.5  fputs                 
+      0.0           149586         16       9349.1       7527.0       2206         22617        8176.2  getc                  
+      0.0           132766         40       3319.2       2289.5       2092          9040        2199.4  putc                  
+      0.0           123457         13       9496.7       1748.0       1041         32196       12730.9  sigaction             
+      0.0            59948          1      59948.0      59948.0      59948         59948           0.0  fgets                 
+      0.0            43335         29       1494.3       1209.0       1010          2651         560.0  signal                
+      0.0            38408         29       1324.4       1199.0       1019          2263         337.8  fcntl                 
+      0.0            27983          8       3497.9       3447.5       1588          5294        1753.2  dup2                  
+      0.0            20881          3       6960.3       8348.0       3301          9232        3199.8  socket                
+      0.0            18236          2       9118.0       9118.0       8266          9970        1204.9  pipe                  
+      0.0            17099          4       4274.8       4101.0       2667          6230        1783.6  mprotect              
+      0.0             8983          1       8983.0       8983.0       8983          8983           0.0  connect               
+      0.0             6787          2       3393.5       3393.5       1689          5098        2410.5  bind                  
+      0.0             4618          1       4618.0       4618.0       4618          4618           0.0  fputs_unlocked        
+      0.0             3018          2       1509.0       1509.0       1181          1837         463.9  pthread_mutex_trylock 
+
+[5/8] Executing 'cudaapisum' stats report
+
+CUDA API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)   Min (ns)   Max (ns)   StdDev (ns)              Name            
+ --------  ---------------  ---------  -----------  ----------  --------  ----------  -----------  ----------------------------
+     26.9       5124455921      86290      59386.4      9132.0      3727      989012     131653.9  cudaMemcpyAsync             
+     23.2       4407819190     374256      11777.6      8340.0      3253    20124201      52414.8  cudaLaunchKernel            
+     13.5       2562381106      19998     128131.9      4475.0       334   200295710    1455475.9  cuEventRecord               
+      6.7       1281540443          8  160192555.4     11091.0      1536  1281448622  453055867.7  cudaStreamCreateWithFlags   
+      5.7       1091886436     459887       2374.2      1169.0       300     6191900      20178.0  cuEventQuery                
+      5.6       1068951976       2793     382725.4     22714.0      2457    40231533    2096969.8  cuModuleUnload              
+      3.2        616670155       5284     116705.2     32447.5      3242    34142771     928117.9  cuMemcpyHtoDAsync_v2        
+      3.0        569884940       5153     110592.8     29941.0      3606   200448239    2792308.4  cuMemcpyDtoHAsync_v2        
+      2.7        505794638       1424     355192.9     20307.5      2157    11500357    1863803.5  cuEventSynchronize          
+      2.6        502146126         10   50214612.6  18903104.0   2007456   200191647   69576189.7  cuMemHostAlloc              
+      1.4        272513860       2344     116260.2     89482.0     26330     3354050     136386.7  cuModuleLoadFatBinary       
+      1.2        233708719        314     744295.3     20793.0      6756    30707007    1927222.7  cuCtxSynchronize            
+      1.1        206284053          8   25785506.6      2404.5       313   206259344   72922442.5  cudaFree                    
+      0.5         96798036       4901      19750.7     10967.0      2752      951229      42178.6  cuMemsetD32Async            
+      0.5         92032418       8476      10858.0      4030.0       472     1686714      61261.3  cuStreamWaitEvent           
+      0.4         85060049       2345      36272.9     11696.0      2983    36152920     750573.5  cuMemAlloc_v2               
+      0.4         80695030       9082       8885.2      2551.5       420     1899066      51164.9  cudaEventRecord             
+      0.4         70556874       4124      17108.8     14669.5      3464      682102      26001.2  cuLaunchKernel              
+      0.2         35566120       2058      17281.9     11911.5      2835      785216      30589.3  cudaMemsetAsync             
+      0.1         24762220       2344      10564.1      8772.5      2266      362252      13964.2  cuMemFree_v2                
+      0.1         22288724       1207      18466.2      9773.0      1721      893168      49780.4  cudaBindTexture             
+      0.1         15768771       2054       7677.1      4503.0       686      871149      37090.1  cudaEventQuery              
+      0.1         12474419       5085       2453.2      1904.0       463      103974       4648.1  cudaStreamWaitEvent         
+      0.1         12284863       2625       4679.9      2456.0       314      223539      15464.8  cuEventCreate               
+      0.1         10939085       1207       9063.0      2431.0       450     1362629      58881.1  cudaUnbindTexture           
+      0.0          9160100       2062       4442.3      3623.0       890      112211       7332.9  cuStreamSynchronize         
+      0.0          7728992       2596       2977.3      1002.0       181      347840      16113.2  cuEventDestroy_v2           
+      0.0          1262052        283       4459.5      3141.0       906       87805       9669.8  cudaEventDestroy            
+      0.0          1145121        283       4046.4      2881.0       776      111781       9409.1  cudaEventCreate             
+      0.0           932651          1     932651.0    932651.0    932651      932651          0.0  cudaHostAlloc               
+      0.0           262505         10      26250.5      5759.0      2767      169863      51734.7  cuStreamCreate              
+      0.0           235192         10      23519.2      6366.5      2841      109229      37281.7  cudaMalloc                  
+      0.0           204114          2     102057.0    102057.0     39549      164565      88399.7  cuMemsetD32_v2              
+      0.0           106760          3      35586.7     36858.0     25001       44901      10010.7  cuMemGetInfo_v2             
+      0.0           103426         44       2350.6       400.5       359       77276      11597.4  cudaEventCreateWithFlags    
+      0.0            54424          4      13606.0     11134.5      1555       30600      14451.9  cudaStreamCreateWithPriority
+      0.0            54343          2      27171.5     27171.5     19013       35330      11537.9  cudaMemcpy                  
+      0.0            13749          4       3437.3      2957.0      1950        5885       1700.3  cuInit                      
+
+[6/8] Executing 'gpukernsum' stats report
+
+CUDA Kernel Statistics:
+
+ Time (%)  Total Time (ns)  Instances  Avg (ns)   Med (ns)   Min (ns)  Max (ns)  StdDev (ns)                                                  Name                                                
+ --------  ---------------  ---------  ---------  ---------  --------  --------  -----------  ----------------------------------------------------------------------------------------------------
+     49.6      12565209955      54683   229782.7   228606.0     87327    242141       6315.2  volta_sgemm_128x32_sliced1x4_nn                                                                     
+     28.3       7166038286      14439   496297.4   499578.0     10720    511449      39608.8  volta_sgemm_128x64_nt                                                                               
+     13.3       3372155323      14342   235124.5   235037.0    227773    243325       1007.4  void gemv2T_kernel_val<float, float, float, (int)128, (int)16, (int)2, (int)4, (bool)0, cublasGemvP…
+      1.3        317301632       4124    76940.3    71679.0     66879     96638       8583.9  redzone_checker                                                                                     
+      1.0        244451066      54578     4478.9     4192.0      3520     12896        474.1  _ZN10tensorflow7functor86_GLOBAL__N__62_tmpxft_00005719_00000000_11_lstm_ops_gpu_cu_compute_70_cpp1…
+      0.6        149592800        132  1133278.8   121742.5     20160   3291160    1507734.1  void transpose_readWrite_alignment_kernel<float2, float2, (int)1, (bool)0, (int)6, (int)4, (int)4>(…
+      0.5        136167697         88  1547360.2  1524734.0     18976   3108026    1535982.3  void DSE::vector_fft<(int)0, (int)1, (int)128, (int)8, (int)8, (int)1, float, float, float2>(T9 *, …
+      0.5        135373434      54578     2480.4     2336.0      1824     10847        276.7  _ZN10tensorflow7functor86_GLOBAL__N__62_tmpxft_00005719_00000000_11_lstm_ops_gpu_cu_compute_70_cpp1…
+      0.5        125263190        786   159367.9   153118.0     81247    389659      67009.4  volta_sgemm_128x64_nn                                                                               
+      0.4         96264475         88  1093914.5   981796.0     25024   2564449    1089887.2  void DSE::regular_fft_pad<(int)0, (int)1, (int)128, (int)16, (int)32, (int)1, float, float, float2>…
+      0.4         93902415         44  2134145.8  2031448.0   2017960   2325252     143307.6  void gemv2T_kernel_val<int, int, float2, float2, float2, (int)128, (int)16, (int)2, (int)2, (bool)0…
+      0.4         93086230        198   470132.5   470682.5      4160    940373     466688.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         72552859      28684     2529.4     2496.0      2080     12799        139.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         71772915      28684     2502.2     2496.0      1984     10784        144.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         70947424        198   358320.3   357739.5      3232    715608     355625.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         70336498        198   355234.8   354572.0      3264    708504     352350.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         69856720      28684     2435.4     2464.0      1920     13055        208.5  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         48538430      14342     3384.4     3360.0      2879     13088        222.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         47994819        270   177758.6   176014.0    162653    218717      10082.3  volta_sgemm_128x128_nt                                                                              
+      0.2         38451429      14342     2681.0     2656.0      2240      9312        121.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         37282762      14342     2599.6     2592.0      2175      8928        117.2  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         36307007      14342     2531.5     2497.0      2080      9376        143.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         32216570        345    93381.4   126687.0      7168    213405      58884.7  volta_sgemm_128x64_tn                                                                               
+      0.1         31645270      14342     2206.5     2176.0      1792     12000        154.5  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         27999208        891    31424.5     2463.0      1792    279421      81996.5  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         24526658        594    41290.7    28336.0     21216    156190      25068.6  volta_sgemm_64x32_sliced1x4_nn                                                                      
+      0.1         19267983        507    38003.9    35327.0     22399     57343       7817.0  void cudnn::detail::implicit_convolve_sgemm<float, float, (int)1024, (int)5, (int)5, (int)3, (int)3…
+      0.1         17440717        283    61628.0    58847.0     54463     70399       4848.6  void fft1d_r2c_256<float, float, float2, (bool)1, (bool)0>(T3 *, const T1 *, int3, int3, int2, int2)
+      0.1         15430487        285    54142.1    49759.0     46239     64895       6447.5  volta_scudnn_128x64_relu_small_nn_v1                                                                
+      0.1         13009990        381    34147.0    33376.0     31584     38368       1689.5  void gemv2N_kernel<int, int, float2, float2, float2, (int)128, (int)8, (int)4, (int)4, (int)1, cubl…
+      0.0          8672563        350    24778.8    23040.0     18719     32992       3686.5  void im2col4d_kernel<float, int>(im2col4d_params, cudnnConvolutionStruct, cudnnTensor4dStruct, cons…
+      0.0          8442564       1584     5329.9     3968.0      2656     17183       2746.0  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          8111008        230    35265.3    32351.5     19552     50879       5974.9  void cudnn::detail::explicit_convolve_sgemm<float, int, (int)1024, (int)5, (int)5, (int)3, (int)3, …
+      0.0          7132101        381    18719.4    19104.0      9153     28384       4514.1  void fft1d_r2c_256<float, float, float2, (bool)0, (bool)0>(T3 *, const T1 *, int3, int3, int2, int2)
+      0.0          6876365         44   156281.0   140782.0    139422    185950      21265.5  void DSE::regular_fft_clip<(int)1, (int)2, (int)128, (int)16, (int)32, (int)1, float, float, float2…
+      0.0          6511527       1485     4384.9     4096.0      2048     14272       1776.8  void tensorflow::BiasNHWCKernel<float>(int, const T1 *, const T1 *, T1 *, int)                      
+      0.0          5669054         51   111157.9   110687.0    104127    142110       4731.9  volta_sgemm_128x32_sliced1x4_tn                                                                     
+      0.0          5309439         44   120669.1   120623.0    119134    122014        701.9  void DSE::vector_fft<(int)1, (int)2, (int)128, (int)8, (int)8, (int)1, float, float, float2>(T9 *, …
+      0.0          4188254       1188     3525.5     3296.0      2431     13280        894.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          4097211       1188     3448.8     3264.0      2368     10944        825.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          3844325        792     4853.9     4640.0      3424     12384       1131.3  void tensorflow::functor::FillPhiloxRandomKernelLaunch<tensorflow::random::UniformDistribution<tens…
+      0.0          3805965        120    31716.4    31760.0     19680     38559       4387.3  void cudnn::detail::explicit_convolve_sgemm<float, int, (int)128, (int)5, (int)5, (int)3, (int)3, (…
+      0.0          3449652         99    34845.0    33440.0     23647     60351       8317.0  volta_sgemm_128x32_nt                                                                               
+      0.0          3130793       1089     2874.9     2752.0      1824      6080        616.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          2842268        990     2871.0     2720.0      1823      6399        592.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          2699622        381     7085.6     6527.0      5408     17440       2021.4  void fft1d_c2r_256<float2, float, float, (bool)0, (bool)1, (bool)0, (bool)0>(T3 *, const T1 *, int3…
+      0.0          2678496         27    99203.6    92286.0     64192    144414      30222.4  volta_sgemm_64x64_nt                                                                                
+      0.0          2532939        297     8528.4     8864.0      7039     12128        956.6  void tensorflow::functor::ShuffleInTensor3Simple<float, (int)2, (int)1, (int)0, (bool)0>(int, const…
+      0.0          2531039        891     2840.7     2176.0      1888      5664        957.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          2475937        792     3126.2     2976.0      2464      6784        607.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          2301145        792     2905.5     2272.0      1632      6144        978.7  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          2169516        594     3652.4     3552.0      2560      5664        775.1  void tensorflow::functor::SwapDimension1And2InTensor3UsingTiles<unsigned int, (int)256, (int)32, (i…
+      0.0          2028287        396     5121.9     4960.0      2912      9440       1279.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          1912380        396     4829.2     4640.0      2815      8352       1143.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          1854859        693     2676.6     2687.0      1984      4320        481.0  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          1543254        495     3117.7     3200.0      2079      4256        524.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          1183477        375     3155.9     3168.0      2144     12639        837.1  void tensorflow::functor::ColumnReduceKernel<const float *, float *, cub::Sum>(T1, T2, int, int, T3…
+      0.0          1117270        396     2821.4     2752.0      2400      4577        310.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          1095188        297     3687.5     3520.0      2784      6368        778.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           976982        246     3971.5     3872.0      3136      5695        698.4  void tensorflow::BiasGradNHWC_SharedAtomics<float>(int, const T1 *, T1 *, int)                      
+      0.0           745330        297     2509.5     2272.0      1824      4608        644.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           648542        285     2275.6     2144.0      1824      3744        240.3  cudnn::gemm::computeOffsetsKernel(cudnn::gemm::ComputeOffsetsParams)                                
+      0.0           460504        198     2325.8     2304.0      1952      2849        116.2  void cub::DeviceReduceSingleTileKernel<cub::DeviceReducePolicy<int, int, cub::Sum>::Policy600, cons…
+      0.0           389664        198     1968.0     1984.0      1792      2336        103.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           376475        198     1901.4     1888.0      1760      2240         99.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           319767         44     7267.4     6592.0      6496      8544        929.4  compute_gemm_pointers(float2 **, const float2 *, int, const float2 *, int, const float2 *, int, int)
+      0.0           277116         99     2799.2     2752.0      2624      3648        165.4  _ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_88_GLOBAL__N__64_tmpxft_…
+      0.0           271070         99     2738.1     2720.0      2592      3296        132.4  _ZN10tensorflow88_GLOBAL__N__64_tmpxft_000030a2_00000000_11_softmax_op_gpu_cu_compute_70_cpp1_ii_59…
+      0.0           264087         99     2667.5     2656.0      2399      3232        221.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           250622         99     2531.5     2528.0      2400      3072        102.3  void tensorflow::functor::RowReduceKernel<const float *, float *, cub::Max>(T1, T2, int, int, T3, s…
+      0.0           193054         99     1950.0     1952.0      1888      2336         68.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           192096         99     1940.4     1952.0      1792      2336         91.2  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           157596         67     2352.2     2336.0      2240      2816         73.6  void tensorflow::functor::CleanupSegments<float *, float *, cub::Sum>(T1, T2, int, int, int, T3, st…
+      0.0            22721          2    11360.5    11360.5     11328     11393         46.0  volta_sgemm_32x128_nt                                                                               
+
+[7/8] Executing 'gpumemtimesum' stats report
+
+CUDA Memory Operation Statistics (by time):
+
+ Time (%)  Total Time (ns)  Count  Avg (ns)  Med (ns)  Min (ns)  Max (ns)  StdDev (ns)      Operation     
+ --------  ---------------  -----  --------  --------  --------  --------  -----------  ------------------
+     59.7       2640133613   5286  499457.7    2112.0       672  33869413    1866473.2  [CUDA memcpy HtoD]
+     35.8       1585080314   5153  307603.4    1184.0       544  10234339    1473732.4  [CUDA memcpy DtoH]
+      3.8        166385008  86290    1928.2    1760.0      1344    478362       3214.5  [CUDA memcpy DtoD]
+      0.7         33003660   6961    4741.2     832.0       671     20287       6059.2  [CUDA memset]     
+
+[8/8] Executing 'gpumemsizesum' stats report
+
+CUDA Memory Operation Statistics (by size):
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)      Operation     
+ ----------  -----  --------  --------  --------  --------  -----------  ------------------
+  30085.694   5286     5.692     0.008     0.000   134.218       19.160  [CUDA memcpy HtoD]
+  19515.603   5153     3.787     0.000     0.000   134.218       19.218  [CUDA memcpy DtoH]
+  17301.419   6961     2.485     0.000     0.000     8.389        3.830  [CUDA memset]     
+   1241.875  86290     0.014     0.008     0.000   134.218        0.914  [CUDA memcpy DtoD]
+
+Generated:
+    /home/cc/keren/report5.nsys-rep
+    /home/cc/keren/report4.sqlite

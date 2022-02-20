@@ -1,0 +1,133 @@
+==PROF== Target process 3316 terminated before first instrumented API call.
+==PROF== Target process 3382 terminated before first instrumented API call.
+==PROF== Target process 3383 terminated before first instrumented API call.
+==PROF== Target process 3384 terminated before first instrumented API call.
+==PROF== Target process 3385 terminated before first instrumented API call.
+==PROF== Target process 3386 terminated before first instrumented API call.
+==PROF== Target process 3387 terminated before first instrumented API call.
+==PROF== Target process 3388 terminated before first instrumented API call.
+==PROF== Connected to process 3268 (/home/cc/keren/deepspeech-venv/bin/python3)
+==PROF== Target process 3389 terminated before first instrumented API call.
+==PROF== Target process 3390 terminated before first instrumented API call.
+==PROF== Target process 3391 terminated before first instrumented API call.
+==PROF== Target process 3392 terminated before first instrumented API call.
+==PROF== Target process 3393 terminated before first instrumented API call.
+==PROF== Target process 3394 terminated before first instrumented API call.
+==PROF== Target process 3395 terminated before first instrumented API call.
+==PROF== Target process 3396 terminated before first instrumented API call.
+==PROF== Target process 3397 terminated before first instrumented API call.
+==PROF== Target process 3398 terminated before first instrumented API call.
+==PROF== Target process 3399 terminated before first instrumented API call.
+==PROF== Target process 3400 terminated before first instrumented API call.
+==PROF== Target process 3403 terminated before first instrumented API call.
+==PROF== Target process 3404 terminated before first instrumented API call.
+==PROF== Target process 3405 terminated before first instrumented API call.
+==PROF== Target process 3406 terminated before first instrumented API call.
+==PROF== Target process 3407 terminated before first instrumented API call.
+==PROF== Target process 3408 terminated before first instrumented API call.
+==PROF== Target process 3409 terminated before first instrumented API call.
+==PROF== Target process 3410 terminated before first instrumented API call.
+==PROF== Target process 3411 terminated before first instrumented API call.
+==PROF== Target process 3412 terminated before first instrumented API call.
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-136
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+==PROF== Profiling "EigenMetaKernel" - 1: 0%
+==WARNING== Backing up device memory in system memory. Kernel replay might be slow. Consider using "--replay-mode application" to avoid memory save-and-restore.
+
+==WARNING== Backing up device memory in system memory. Kernel replay might be slow. Consider using "--replay-mode application" to avoid memory save-and-restore.
+....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 2: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 3: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 4: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 5: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 6: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 7: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 8: 0%....50%....100% - 8 passes
+==PROF== Profiling "SwapDimension1And2InTensor3Us..." - 9: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 10: 0%....50%....100% - 8 passes
+==PROF== Profiling "ShuffleInTensor3Simple" - 11: 0%....50%....100% - 8 passes
+==PROF== Profiling "implicit_convolve_sgemm" - 12: 0%....50%....100% - 8 passes
+==PROF== Target process 4050 terminated before first instrumented API call.
+==PROF== Profiling "redzone_checker" - 13: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 14: 0%....50%....100% - 8 passes
+==PROF== Target process 4051 terminated before first instrumented API call.
+==PROF== Profiling "implicit_convolve_sgemm" - 15: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 16: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 17: 0%....50%....100% - 8 passes
+==PROF== Profiling "computeOffsetsKernel" - 18: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_scudnn_128x64_relu_smal..." - 19: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 20: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 21: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 22: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 23: 0%....50%....100% - 8 passes
+==PROF== Profiling "computeOffsetsKernel" - 24: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_scudnn_128x64_relu_smal..." - 25: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 26: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 27: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 28: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 29: 0%....50%....100% - 8 passes
+==PROF== Profiling "im2col4d_kernel" - 30: 0%....50%....100% - 8 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 31: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 32: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 33: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 34: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 35: 0%....50%....100% - 8 passes
+==PROF== Profiling "im2col4d_kernel" - 36: 0%....50%....100% - 8 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 37: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 38: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 39: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 40: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 41: 0%....50%....100% - 8 passes
+==PROF== Profiling "regular_fft_pad" - 42: 0%....50%....100% - 8 passes
+==PROF== Profiling "vector_fft" - 43: 0%....50%....100% - 8 passes
+==PROF== Profiling "regular_fft_pad" - 44: 0%....50%....100% - 8 passes
+==PROF== Profiling "vector_fft" - 45: 0%....50%....100% - 8 passes
+==PROF== Profiling "transpose_readWrite_alignment..." - 46: 0%....50%....100% - 8 passes
+==PROF== Profiling "transpose_readWrite_alignment..." - 47: 0%....50%....100% - 8 passes
+==PROF== Profiling "compute_gemm_pointers" - 48: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemv2T_kernel_val" - 49: 0%....50%....100% - 8 passes
+==PROF== Profiling "transpose_readWrite_alignment..." - 50: 0%....50%....100% - 8 passes
+==PROF== Profiling "vector_fft" - 51: 

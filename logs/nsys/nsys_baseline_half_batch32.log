@@ -1,0 +1,330 @@
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-6661
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 1 | Loss: 47.116524
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 2 | Loss: 50.555738
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 3 | Loss: 52.012595
+Epoch 0 |   Training | Elapsed Time: 0:00:04 | Steps: 4 | Loss: 53.657521
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 5 | Loss: 56.668792
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 6 | Loss: 59.261583
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 7 | Loss: 61.743824
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 8 | Loss: 63.991354
+Epoch 0 |   Training | Elapsed Time: 0:00:05 | Steps: 9 | Loss: 67.493921
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 10 | Loss: 69.420401
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 11 | Loss: 71.926714
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 12 | Loss: 74.538440
+Epoch 0 |   Training | Elapsed Time: 0:00:06 | Steps: 13 | Loss: 75.978043
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 14 | Loss: 78.507998
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 15 | Loss: 80.277700
+Epoch 0 |   Training | Elapsed Time: 0:00:07 | Steps: 16 | Loss: 82.614127
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 17 | Loss: 85.062574
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 18 | Loss: 87.944566
+Epoch 0 |   Training | Elapsed Time: 0:00:08 | Steps: 19 | Loss: 90.367129
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 20 | Loss: 93.043685
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 21 | Loss: 96.262897
+Epoch 0 |   Training | Elapsed Time: 0:00:09 | Steps: 22 | Loss: 99.099033
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 23 | Loss: 102.182809
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 24 | Loss: 105.031879
+Epoch 0 |   Training | Elapsed Time: 0:00:10 | Steps: 25 | Loss: 107.608228
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 26 | Loss: 110.712801
+Epoch 0 |   Training | Elapsed Time: 0:00:11 | Steps: 27 | Loss: 114.070185
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 28 | Loss: 117.437591
+Epoch 0 |   Training | Elapsed Time: 0:00:12 | Steps: 29 | Loss: 121.050636
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 30 | Loss: 124.949272
+Epoch 0 |   Training | Elapsed Time: 0:00:13 | Steps: 31 | Loss: 128.843418
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 32 | Loss: 132.976252
+Epoch 0 |   Training | Elapsed Time: 0:00:14 | Steps: 33 | Loss: 137.748136
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 34 | Loss: 143.564911
+Epoch 0 |   Training | Elapsed Time: 0:00:15 | Steps: 34 | Loss: 143.564911
+Epoch 0 | Validation | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 1 | Loss: 46.196060 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 2 | Loss: 47.330147 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 3 | Loss: 49.317974 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 4 | Loss: 51.794162 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:02 | Steps: 6 | Loss: 56.354737 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 8 | Loss: 62.611090 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 10 | Loss: 67.575920 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 12 | Loss: 71.412024 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 14 | Loss: 75.573586 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 16 | Loss: 80.891405 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:03 | Steps: 18 | Loss: 85.685838 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 19 | Loss: 88.907627 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 21 | Loss: 96.156438 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 22 | Loss: 99.315488 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 23 | Loss: 102.606608 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 24 | Loss: 106.676972 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 25 | Loss: 110.686213 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:04 | Steps: 26 | Loss: 115.458972 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 27 | Loss: 120.238683 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 28 | Loss: 126.307126 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 29 | Loss: 133.465253 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 30 | Loss: 143.324297 | Dataset: set/clips/half_dev.csv
+Epoch 0 | Validation | Elapsed Time: 0:00:05 | Steps: 30 | Loss: 143.324297 | Dataset: set/clips/half_dev.csv
+I Saved new best validating model with loss 143.324297 to: /root/.local/share/deepspeech/checkpoints/best_dev-6695
+--------------------------------------------------------------------------------
+I FINISHED optimization in 0:00:22.747633
+Generating '/tmp/nsys-report-cbb3.qdstrm'
+[1/8] [0%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [0%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [1%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [0%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [1%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [2%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [3%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [2%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [3%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [4%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [3%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [5%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [4%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [6%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [7%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [8%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [7%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [9%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [8%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [10%                         ] nsys_baseline_half_batch32.nsys-rep[1/8] [9%                          ] nsys_baseline_half_batch32.nsys-rep[1/8] [10%                         ] nsys_baseline_half_batch32.nsys-rep[1/8] [12%                         ] nsys_baseline_half_batch32.nsys-rep[1/8] [13%                         ] nsys_baseline_half_batch32.nsys-rep[1/8] [14%                         ] nsys_baseline_half_batch32.nsys-rep[1/8] [=15%                        ] nsys_baseline_half_batch32.nsys-rep[1/8] [=16%                        ] nsys_baseline_half_batch32.nsys-rep[1/8] [==18%                       ] nsys_baseline_half_batch32.nsys-rep[1/8] [==19%                       ] nsys_baseline_half_batch32.nsys-rep[1/8] [==20%                       ] nsys_baseline_half_batch32.nsys-rep[1/8] [==21%                       ] nsys_baseline_half_batch32.nsys-rep[1/8] [===22%                      ] nsys_baseline_half_batch32.nsys-rep[1/8] [===23%                      ] nsys_baseline_half_batch32.nsys-rep[1/8] [===24%                      ] nsys_baseline_half_batch32.nsys-rep[1/8] [====25%                     ] nsys_baseline_half_batch32.nsys-rep[1/8] [====26%                     ] nsys_baseline_half_batch32.nsys-rep[1/8] [====27%                     ] nsys_baseline_half_batch32.nsys-rep[1/8] [====28%                     ] nsys_baseline_half_batch32.nsys-rep[1/8] [=====29%                    ] nsys_baseline_half_batch32.nsys-rep[1/8] [=====30%                    ] nsys_baseline_half_batch32.nsys-rep[1/8] [=====31%                    ] nsys_baseline_half_batch32.nsys-rep[1/8] [=====32%                    ] nsys_baseline_half_batch32.nsys-rep[1/8] [======33%                   ] nsys_baseline_half_batch32.nsys-rep[1/8] [======34%                   ] nsys_baseline_half_batch32.nsys-rep[1/8] [======35%                   ] nsys_baseline_half_batch32.nsys-rep[1/8] [=============58%            ] nsys_baseline_half_batch32.nsys-rep[1/8] [=============59%            ] nsys_baseline_half_batch32.nsys-rep[1/8] [=============60%            ] nsys_baseline_half_batch32.nsys-rep[1/8] [==============61%           ] nsys_baseline_half_batch32.nsys-rep[1/8] [==============62%           ] nsys_baseline_half_batch32.nsys-rep[1/8] [==============63%           ] nsys_baseline_half_batch32.nsys-rep[1/8] [==============64%           ] nsys_baseline_half_batch32.nsys-rep[1/8] [===============65%          ] nsys_baseline_half_batch32.nsys-rep[1/8] [===============66%          ] nsys_baseline_half_batch32.nsys-rep[1/8] [===============67%          ] nsys_baseline_half_batch32.nsys-rep[1/8] [================68%         ] nsys_baseline_half_batch32.nsys-rep[1/8] [================69%         ] nsys_baseline_half_batch32.nsys-rep[1/8] [================70%         ] nsys_baseline_half_batch32.nsys-rep[1/8] [================71%         ] nsys_baseline_half_batch32.nsys-rep[1/8] [=================72%        ] nsys_baseline_half_batch32.nsys-rep[1/8] [=================73%        ] nsys_baseline_half_batch32.nsys-rep[1/8] [=================74%        ] nsys_baseline_half_batch32.nsys-rep[1/8] [==================75%       ] nsys_baseline_half_batch32.nsys-rep[1/8] [==================76%       ] nsys_baseline_half_batch32.nsys-rep[1/8] [==================77%       ] nsys_baseline_half_batch32.nsys-rep[1/8] [==================78%       ] nsys_baseline_half_batch32.nsys-rep[1/8] [===================79%      ] nsys_baseline_half_batch32.nsys-rep[1/8] [===================80%      ] nsys_baseline_half_batch32.nsys-rep[1/8] [===================81%      ] nsys_baseline_half_batch32.nsys-rep[1/8] [===================82%      ] nsys_baseline_half_batch32.nsys-rep[1/8] [====================83%     ] nsys_baseline_half_batch32.nsys-rep[1/8] [========================100%] nsys_baseline_half_batch32.nsys-rep[1/8] [========================100%] nsys_baseline_half_batch32.nsys-rep
+[2/8] [0%                          ] nsys_baseline_half_batch32.sqlite[2/8] [1%                          ] nsys_baseline_half_batch32.sqlite[2/8] [2%                          ] nsys_baseline_half_batch32.sqlite[2/8] [3%                          ] nsys_baseline_half_batch32.sqlite[2/8] [4%                          ] nsys_baseline_half_batch32.sqlite[2/8] [5%                          ] nsys_baseline_half_batch32.sqlite[2/8] [6%                          ] nsys_baseline_half_batch32.sqlite[2/8] [7%                          ] nsys_baseline_half_batch32.sqlite[2/8] [8%                          ] nsys_baseline_half_batch32.sqlite[2/8] [9%                          ] nsys_baseline_half_batch32.sqlite[2/8] [10%                         ] nsys_baseline_half_batch32.sqlite[2/8] [11%                         ] nsys_baseline_half_batch32.sqlite[2/8] [12%                         ] nsys_baseline_half_batch32.sqlite[2/8] [13%                         ] nsys_baseline_half_batch32.sqlite[2/8] [14%                         ] nsys_baseline_half_batch32.sqlite[2/8] [=15%                        ] nsys_baseline_half_batch32.sqlite[2/8] [=16%                        ] nsys_baseline_half_batch32.sqlite[2/8] [=17%                        ] nsys_baseline_half_batch32.sqlite[2/8] [==18%                       ] nsys_baseline_half_batch32.sqlite[2/8] [==19%                       ] nsys_baseline_half_batch32.sqlite[2/8] [==20%                       ] nsys_baseline_half_batch32.sqlite[2/8] [==21%                       ] nsys_baseline_half_batch32.sqlite[2/8] [===22%                      ] nsys_baseline_half_batch32.sqlite[2/8] [===23%                      ] nsys_baseline_half_batch32.sqlite[2/8] [===24%                      ] nsys_baseline_half_batch32.sqlite[2/8] [====25%                     ] nsys_baseline_half_batch32.sqlite[2/8] [====26%                     ] nsys_baseline_half_batch32.sqlite[2/8] [====27%                     ] nsys_baseline_half_batch32.sqlite[2/8] [====28%                     ] nsys_baseline_half_batch32.sqlite[2/8] [=====29%                    ] nsys_baseline_half_batch32.sqlite[2/8] [=====30%                    ] nsys_baseline_half_batch32.sqlite[2/8] [=====31%                    ] nsys_baseline_half_batch32.sqlite[2/8] [=====32%                    ] nsys_baseline_half_batch32.sqlite[2/8] [======33%                   ] nsys_baseline_half_batch32.sqlite[2/8] [======34%                   ] nsys_baseline_half_batch32.sqlite[2/8] [======35%                   ] nsys_baseline_half_batch32.sqlite[2/8] [=======36%                  ] nsys_baseline_half_batch32.sqlite[2/8] [=======37%                  ] nsys_baseline_half_batch32.sqlite[2/8] [=======38%                  ] nsys_baseline_half_batch32.sqlite[2/8] [=======39%                  ] nsys_baseline_half_batch32.sqlite[2/8] [========40%                 ] nsys_baseline_half_batch32.sqlite[2/8] [========41%                 ] nsys_baseline_half_batch32.sqlite[2/8] [========42%                 ] nsys_baseline_half_batch32.sqlite[2/8] [=========43%                ] nsys_baseline_half_batch32.sqlite[2/8] [=========44%                ] nsys_baseline_half_batch32.sqlite[2/8] [=========45%                ] nsys_baseline_half_batch32.sqlite[2/8] [=========46%                ] nsys_baseline_half_batch32.sqlite[2/8] [==========47%               ] nsys_baseline_half_batch32.sqlite[2/8] [==========48%               ] nsys_baseline_half_batch32.sqlite[2/8] [==========49%               ] nsys_baseline_half_batch32.sqlite[2/8] [===========50%              ] nsys_baseline_half_batch32.sqlite[2/8] [===========51%              ] nsys_baseline_half_batch32.sqlite[2/8] [===========52%              ] nsys_baseline_half_batch32.sqlite[2/8] [===========53%              ] nsys_baseline_half_batch32.sqlite[2/8] [============54%             ] nsys_baseline_half_batch32.sqlite[2/8] [============55%             ] nsys_baseline_half_batch32.sqlite[2/8] [============56%             ] nsys_baseline_half_batch32.sqlite[2/8] [============57%             ] nsys_baseline_half_batch32.sqlite[2/8] [=============58%            ] nsys_baseline_half_batch32.sqlite[2/8] [=============59%            ] nsys_baseline_half_batch32.sqlite[2/8] [=============60%            ] nsys_baseline_half_batch32.sqlite[2/8] [==============61%           ] nsys_baseline_half_batch32.sqlite[2/8] [==============62%           ] nsys_baseline_half_batch32.sqlite[2/8] [==============63%           ] nsys_baseline_half_batch32.sqlite[2/8] [==============64%           ] nsys_baseline_half_batch32.sqlite[2/8] [===============65%          ] nsys_baseline_half_batch32.sqlite[2/8] [===============66%          ] nsys_baseline_half_batch32.sqlite[2/8] [===============67%          ] nsys_baseline_half_batch32.sqlite[2/8] [================68%         ] nsys_baseline_half_batch32.sqlite[2/8] [================69%         ] nsys_baseline_half_batch32.sqlite[2/8] [================70%         ] nsys_baseline_half_batch32.sqlite[2/8] [================71%         ] nsys_baseline_half_batch32.sqlite[2/8] [=================72%        ] nsys_baseline_half_batch32.sqlite[2/8] [=================73%        ] nsys_baseline_half_batch32.sqlite[2/8] [=================74%        ] nsys_baseline_half_batch32.sqlite[2/8] [==================75%       ] nsys_baseline_half_batch32.sqlite[2/8] [==================76%       ] nsys_baseline_half_batch32.sqlite[2/8] [==================77%       ] nsys_baseline_half_batch32.sqlite[2/8] [==================78%       ] nsys_baseline_half_batch32.sqlite[2/8] [===================79%      ] nsys_baseline_half_batch32.sqlite[2/8] [===================80%      ] nsys_baseline_half_batch32.sqlite[2/8] [===================81%      ] nsys_baseline_half_batch32.sqlite[2/8] [===================82%      ] nsys_baseline_half_batch32.sqlite[2/8] [====================83%     ] nsys_baseline_half_batch32.sqlite[2/8] [====================84%     ] nsys_baseline_half_batch32.sqlite[2/8] [====================85%     ] nsys_baseline_half_batch32.sqlite[2/8] [=====================86%    ] nsys_baseline_half_batch32.sqlite[2/8] [=====================87%    ] nsys_baseline_half_batch32.sqlite[2/8] [=====================88%    ] nsys_baseline_half_batch32.sqlite[2/8] [=====================89%    ] nsys_baseline_half_batch32.sqlite[2/8] [======================90%   ] nsys_baseline_half_batch32.sqlite[2/8] [======================91%   ] nsys_baseline_half_batch32.sqlite[2/8] [======================92%   ] nsys_baseline_half_batch32.sqlite[2/8] [=======================93%  ] nsys_baseline_half_batch32.sqlite[2/8] [=======================94%  ] nsys_baseline_half_batch32.sqlite[2/8] [=======================95%  ] nsys_baseline_half_batch32.sqlite[2/8] [=======================96%  ] nsys_baseline_half_batch32.sqlite[2/8] [========================97% ] nsys_baseline_half_batch32.sqlite[2/8] [========================98% ] nsys_baseline_half_batch32.sqlite[2/8] [========================99% ] nsys_baseline_half_batch32.sqlite[2/8] [========================100%] nsys_baseline_half_batch32.sqlite[2/8] [========================100%] nsys_baseline_half_batch32.sqlite
+[3/8] Executing 'nvtxsum' stats report
+[4/8] Executing 'osrtsum' stats report
+
+Operating System Runtime API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)    Max (ns)    StdDev (ns)            Name         
+ --------  ---------------  ---------  -----------  -----------  ---------  -----------  ------------  ----------------------
+     87.7    2169993644613      34101   63634311.2    1082525.0       2401  25284505063   442719862.7  pthread_cond_wait     
+      5.7     140547572411      11249   12494228.1      22122.0       1103  22692063940   240208147.7  futex                 
+      1.8      44441244908         88  505014146.7  124610932.5     413399  21481840933  2372003571.1  sem_wait              
+      1.2      28998774064        304   95390704.2  100231351.5       4266    133715584    26177876.6  poll                  
+      1.2      28914626488       2212   13071711.8     190543.5       4173    534244731    78911582.3  pthread_cond_timedwait
+      1.1      28201183764        281  100360084.6  100216087.0  100130342    128847571     1886752.7  select                
+      0.6      15373439911       8484    1812050.9       4624.0       1000   1839619166    29032390.5  read                  
+      0.2       5275217075      51586     102260.6     100113.0      27624     16044797      106982.3  nanosleep             
+      0.2       4721141222       3701    1275639.3      84490.0       1000     47000873     5311896.7  pthread_mutex_lock    
+      0.2       3711613050        119   31190025.6   29647579.0    6006098     58793358    11460425.9  fork                  
+      0.0        940290604       9522      98749.3      12756.5       4134    148565384     2912295.4  waitpid               
+      0.0        846834190       1479     572572.1     183848.0       1826    196961469     5139238.9  pthread_rwlock_wrlock 
+      0.0        681327591       2249     302946.9      30840.0       1001    191826905     4856354.7  ioctl                 
+      0.0        552424347        231    2391447.4    3930666.0       1019      8062739     2021502.6  fwrite                
+      0.0        379639795      35963      10556.4       5589.0       1033     16591217      146201.3  pthread_cond_signal   
+      0.0        271939339         32    8498104.3     678694.5       1009     75197760    20610847.3  pread                 
+      0.0        226239597        110    2056723.6      45259.5       1869    177224490    16911953.9  pthread_join          
+      0.0         48925085        474     103217.5      74605.0       1236      1182426      113131.8  pthread_rwlock_rdlock 
+      0.0         42911024        184     233212.1     193516.0      72569       663836      132495.4  pthread_create        
+      0.0         35375795       3988       8870.6       3502.5       1758     19724448      312289.1  open64                
+      0.0         23005083         85     270648.0       6199.0       1091     19749645     2149047.4  fopen                 
+      0.0         22984797        147     156359.2       7219.0       2323     21920576     1807378.3  pipe2                 
+      0.0          9654700       2227       4335.3       3115.0       1003        41702        3558.9  write                 
+      0.0          8561093        153      55954.9      11080.0       1764       418978       91336.9  mmap                  
+      0.0          6902591       1156       5971.1       3432.0       1025      1153832       34855.2  mmap64                
+      0.0          5921577        716       8270.4       3634.0       1303       151030       15163.0  munmap                
+      0.0          5020414        442      11358.4       7728.5       1719       124878       13559.8  pthread_cond_broadcast
+      0.0          4889123         49      99778.0      99112.0      93329       119705        3872.3  sleep                 
+      0.0          4068216         72      56503.0      82344.5       2260       113975       37564.3  fgets                 
+      0.0          2520437         11     229130.6     155073.0      63045      1157609      311752.4  sem_timedwait         
+      0.0          2419039        318       7607.0       1691.0       1136      1740094       97484.4  fopen64               
+      0.0           708364        218       3249.4       2147.5       1824        42957        4169.3  fflush                
+      0.0           419135         97       4321.0       3141.0       1015        23244        3730.8  fread                 
+      0.0           404746        103       3929.6       1996.0       1020        34651        5773.6  fclose                
+      0.0           189054         76       2487.6       2199.0       1733        10439        1367.8  kill                  
+      0.0           174115         20       8705.8       8443.0       2177        16879        4217.2  open                  
+      0.0           171349         51       3359.8       2506.0       1033         7144        1800.5  fputs                 
+      0.0           153158         16       9572.4       5375.0       2277        30367        9683.6  getc                  
+      0.0           128007         40       3200.2       2116.5       2076         8584        2194.7  putc                  
+      0.0            86426         11       7856.9       1701.0       1046        31691       11183.9  sigaction             
+      0.0            46767         30       1558.9       1672.5       1034         2211         363.9  fcntl                 
+      0.0            39108         24       1629.5       1289.0       1029         2836         629.7  signal                
+      0.0            29638          8       3704.8       3360.5       1881         6128        1904.7  dup2                  
+      0.0            20894          3       6964.7       8222.0       3131         9541        3384.9  socket                
+      0.0            18081          2       9040.5       9040.5       7292        10789        2472.8  pipe                  
+      0.0            17948          4       4487.0       4132.5       2958         6725        1830.0  mprotect              
+      0.0            17025          4       4256.3       3867.5       2129         7161        2250.9  pthread_mutex_trylock 
+      0.0             9321          1       9321.0       9321.0       9321         9321           0.0  connect               
+      0.0             6192          2       3096.0       3096.0       2010         4182        1535.8  bind                  
+      0.0             5032          1       5032.0       5032.0       5032         5032           0.0  fputs_unlocked        
+      0.0             1033          1       1033.0       1033.0       1033         1033           0.0  dup                   
+
+[5/8] Executing 'cudaapisum' stats report
+
+CUDA API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)   Min (ns)   Max (ns)   StdDev (ns)              Name            
+ --------  ---------------  ---------  -----------  ----------  --------  ----------  -----------  ----------------------------
+     47.2       5387738705     170599      31581.3      6505.0      3097    16224323     110614.6  cudaLaunchKernel            
+     11.2       1278496745          8  159812093.1      5712.0      1604  1278443997  451995545.7  cudaStreamCreateWithFlags   
+      8.7        992840041       5914     167879.6      5031.5       357   197008460    2586866.2  cuEventRecord               
+      8.3        946650073       1413     669957.6     25287.0      2426    39674281    2633704.9  cuModuleUnload              
+      5.8        665877676        618    1077472.0    233626.5      1253    26229549    4334938.8  cuEventSynchronize          
+      4.4        506459406     172363       2938.3      1109.0       453     3059822      24544.8  cuEventQuery                
+      3.8        437069612         10   43706961.2  17620469.5   2016234   196886632   61356700.7  cuMemHostAlloc              
+      2.5        287777329       1317     218509.7     35832.0      4339    36297019    1662455.0  cuMemcpyHtoDAsync_v2        
+      1.8        204514437          7   29216348.1       919.0       298   204498148   77292008.7  cudaFree                    
+      1.4        162842581       1802      90367.7     58850.5      3840     1176242      92730.3  cuMemcpyDtoHAsync_v2        
+      1.1        124280381        964     128921.6     93848.0     26448     1704806     144338.1  cuModuleLoadFatBinary       
+      0.6         67499720        965      69947.9     13004.0      3046    36923889    1197741.3  cuMemAlloc_v2               
+      0.6         66638015         78     854333.5     41220.0      9495     2101606     939418.3  cuCtxSynchronize            
+      0.4         47979022       6911       6942.4      3760.0      2695      612430      23243.8  cudaMemsetAsync             
+      0.4         47412036       1982      23921.3     11483.5      2720     1239539      59922.0  cuMemsetD32Async            
+      0.4         41741903       1696      24612.0     14491.5      3307      959750      51813.7  cuLaunchKernel              
+      0.4         41545719       2307      18008.5      4089.0       525     1357440     101075.6  cuStreamWaitEvent           
+      0.3         37561160      10137       3705.4      1243.0       438     1715859      28362.2  cudaEventRecord             
+      0.1         13318399       6907       1928.2       844.0       636      607480      11099.1  cudaEventQuery              
+      0.1         12422707        964      12886.6      9554.5      2203      841512      31020.0  cuMemFree_v2                
+      0.1         10563471       2875       3674.3      1851.0       475      658504      18696.0  cudaStreamWaitEvent         
+      0.1         10179040       1130       9008.0      2227.0       310     1079258      57055.5  cuEventCreate               
+      0.1          6996335        348      20104.4      8742.0      2141     1003181      70810.0  cudaBindTexture             
+      0.0          5143257        848       6065.2      3710.5       893      395418      18797.7  cuStreamSynchronize         
+      0.0          4368026       1100       3970.9      1026.5       189      345353      21654.1  cuEventDestroy_v2           
+      0.0          3610265         85      42473.7     43524.0      9805      187009      29783.2  cudaMemcpyAsync             
+      0.0          2336186        348       6713.2      2368.0       657      241709      25671.3  cudaUnbindTexture           
+      0.0           918056          1     918056.0    918056.0    918056      918056          0.0  cudaHostAlloc               
+      0.0           746000        162       4604.9      2930.0       925      144684      13744.4  cudaEventDestroy            
+      0.0           736398        162       4545.7      2890.5       912       98450      10605.2  cudaEventCreate             
+      0.0           575600         10      57560.0      6924.5      3159      399644     122525.5  cuStreamCreate              
+      0.0           271925         10      27192.5      6832.5      2757      149047      47371.1  cudaMalloc                  
+      0.0           156957          2      78478.5     78478.5     23102      133855      78314.2  cudaMemcpy                  
+      0.0           130652          2      65326.0     65326.0     21087      109565      62563.4  cuMemGetInfo_v2             
+      0.0            57645          1      57645.0     57645.0     57645       57645          0.0  cuMemsetD32_v2              
+      0.0            31924         44        725.5       392.0       360        7887       1232.9  cudaEventCreateWithFlags    
+      0.0            23124          6       3854.0      2291.0      1639       12138       4092.4  cuInit                      
+      0.0            11451          4       2862.8      2415.5      1685        4935       1430.8  cudaStreamCreateWithPriority
+
+[6/8] Executing 'gpukernsum' stats report
+
+CUDA Kernel Statistics:
+
+ Time (%)  Total Time (ns)  Instances  Avg (ns)   Med (ns)   Min (ns)  Max (ns)  StdDev (ns)                                                  Name                                                
+ --------  ---------------  ---------  ---------  ---------  --------  --------  -----------  ----------------------------------------------------------------------------------------------------
+     27.3       3355314678       6662   503649.8   494651.0    490939   3661020     158020.6  volta_sgemm_64x64_nt                                                                                
+     22.9       2814462342      11756   239406.5   239357.5    236638    246398        872.7  volta_sgemm_128x32_sliced1x4_nn                                                                     
+     17.8       2181925559       6641   328553.8   328380.0    316350    346205       4067.2  volta_sgemm_128x32_sliced1x4_tn                                                                     
+      3.3        399118788        151  2643170.8  2017036.0    421851   6483584    1861083.6  volta_sgemm_128x64_nn                                                                               
+      3.1        381964687         90  4244052.1  4017400.5   2213323   9066727    1877202.5  volta_sgemm_128x128_nn                                                                              
+      2.0        240896413         63  3823752.6  4495891.0    929143   8216848    2477233.6  volta_sgemm_128x128_nt                                                                              
+      1.8        226729607         51  4445678.6  4227062.0   2239786   8564748    1788531.7  volta_sgemm_128x128_tn                                                                              
+      1.6        190942022         76  2512395.0  2155019.0     58303   6927612    2479590.1  volta_sgemm_128x64_tn                                                                               
+      1.5        179807702         80  2247596.3  2112091.0    193886   4944176    1454744.3  volta_sgemm_128x64_nt                                                                               
+      1.2        149901131       1696    88385.1    86687.0     84895     98719       3369.9  redzone_checker                                                                                     
+      1.2        145987815        497   293738.1   293661.0    285022    302941       3196.7  void gemmSN_NN_kernel<float, float, float, (int)256, (int)4, (int)2, (int)8, (int)4, (int)4>(cublas…
+      1.1        129370050         54  2395741.7  3226992.5    206621   3761915    1574840.3  void transpose_readWrite_alignment_kernel<float2, float2, (int)1, (bool)0, (int)6, (int)4, (int)4>(…
+      1.0        128067211        490   261361.7   231901.0    105022    592986     111128.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.8         99660724      12253     8133.6     8224.0      5120     16063        607.6  _ZN10tensorflow7functor86_GLOBAL__N__62_tmpxft_00005719_00000000_11_lstm_ops_gpu_cu_compute_70_cpp1…
+      0.8         98361114         18  5464506.3  5464458.5   5462474   5466027        847.4  void DSE::regular_fft_clip<(int)1, (int)2, (int)128, (int)16, (int)32, (int)1, float, float, float2…
+      0.6         75140590      26564     2828.7     2784.0      2687      9824        148.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.6         72474296         18  4026349.8  4026168.0   4023481   4028728       1360.1  volta_cgemm_32x32_tn                                                                                
+      0.5         66910057         18  3717225.4  3716971.0   3714107   3720859       2117.4  void DSE::vector_fft<(int)1, (int)2, (int)128, (int)8, (int)8, (int)1, float, float, float2>(T9 *, …
+      0.5         58861502         36  1635041.7  1634367.5    206782   3065634    1446249.2  void DSE::vector_fft<(int)0, (int)1, (int)128, (int)8, (int)8, (int)1, float, float, float2>(T9 *, …
+      0.4         55057231      13282     4145.3     4160.0      3775     14112        275.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         52906335      12253     4317.8     4352.0      2879     12544        326.2  _ZN10tensorflow7functor86_GLOBAL__N__62_tmpxft_00005719_00000000_11_lstm_ops_gpu_cu_compute_70_cpp1…
+      0.4         52455382      13282     3949.4     3936.0      3520     12000        153.0  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         51088023       6641     7692.8     7680.0      6975     10400        199.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         49652188         36  1379227.4  1379155.0    201310   2558503    1192762.8  void DSE::regular_fft_pad<(int)0, (int)1, (int)128, (int)16, (int)32, (int)1, float, float, float2>…
+      0.4         48664167        320   152075.5   140239.0      3264    494203     110869.9  void tensorflow::BiasNHWCKernel<float>(int, const T1 *, const T1 *, T1 *, int)                      
+      0.4         47613494      13282     3584.8     3584.0      3232     11648        254.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         46554738         15  3103649.2  3104449.0   3002275   3183744      57385.2  volta_sgemm_64x64_nn                                                                                
+      0.4         45185888        256   176507.4   155550.5     71967    410556      77200.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         44918467        256   175462.8   154766.0     71807    409148      76525.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         44771427        324   138183.4   132527.0      2304    408700      97560.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.4         44349005         96   461968.8   419115.5    250749    833784     160574.3  void cudnn::detail::implicit_convolve_sgemm<float, float, (int)512, (int)6, (int)8, (int)3, (int)3,…
+      0.3         41080034      13282     3092.9     3009.0      2911     10080        174.4  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         38945701        320   121705.3   108926.5      2336    401692      91518.4  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         38072906        136   279947.8   250957.5    100351    682745     125898.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         37716999        134   281470.1   249869.5    158942    589755     104779.3  volta_scudnn_128x64_relu_small_nn_v1                                                                
+      0.3         37527091        136   275934.5   248749.5    116894    576155     112505.0  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         34085778         74   460618.6   424748.0    249182    817176     169696.4  void cudnn::detail::explicit_convolve_sgemm<float, int, (int)512, (int)6, (int)8, (int)3, (int)3, (…
+      0.3         31961380        256   124849.1   109791.5     53119    290333      53273.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         31836519         68   468184.1   467483.0      6848    932631     464057.4  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.3         30961808          9  3440200.9  3439358.0   3345407   3529757      71584.8  volta_sgemm_64x64_tn                                                                                
+      0.2         29573966       6641     4453.2     4447.0      4128      5600        131.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         28847680       6641     4343.9     4320.0      4032     14400        210.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         27796671       6641     4185.6     4160.0      4000     12735        152.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         26351737        256   102936.5    90111.0     41888    242718      44584.7  void tensorflow::functor::FillPhiloxRandomKernelLaunch<tensorflow::random::UniformDistribution<tens…
+      0.2         25583043        136   188110.6   169342.5     78911    387772      76218.7  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         24052365         68   353711.3   353436.5      4160    705209     351579.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         23869461         68   351021.5   350764.5      4160    699641     348699.4  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.2         22310546       6641     3359.5     3296.0      3199     10560        160.9  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         17512280        136   128766.8   116511.0     56671    266525      51820.0  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         16230042        211    76919.6    75455.0     69599     89471       3482.9  volta_gcgemm_32x32_nt                                                                               
+      0.1         14426478        211    68371.9    66879.0     19167     96223      11973.0  void fft1d_c2r_256<float2, float, float, (bool)0, (bool)1, (bool)0, (bool)0>(T3 *, const T1 *, int3…
+      0.1         13947705        200    69738.5    69679.5      3104    220349      57876.0  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.1         13853406        161    86046.0    86527.0      5472    224958      52090.3  void tensorflow::BiasGradNHWC_SharedAtomics<float>(int, const T1 *, T1 *, int)                      
+      0.1         13238494         42   315202.2   295373.0    200094    604121     120113.3  void cudnn::detail::explicit_convolve_sgemm<float, int, (int)128, (int)6, (int)7, (int)3, (int)3, (…
+      0.1         11010160        162    67964.0    67936.0     62080     72415       1125.7  void fft1d_r2c_256<float, float, float2, (bool)1, (bool)0>(T3 *, const T1 *, int3, int3, int2, int2)
+      0.1         10459926        306    34182.8     3200.0      2656    294333      87572.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          5915143         30   197171.4   177262.5    165502    272541      36360.0  volta_sgemm_32x32_sliced1x4_nn                                                                      
+      0.0          5771302         64    90176.6    80415.0     35104    211454      40554.7  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          5141707        211    24368.3    26047.0     12704     37184       3922.8  void fft1d_r2c_256<float, float, float2, (bool)0, (bool)0>(T3 *, const T1 *, int3, int3, int2, int2)
+      0.0          5071084        116    43716.2    40543.5     38047     78047       7988.1  void im2col4d_kernel<float, int>(im2col4d_params, cudnnConvolutionStruct, cudnnTensor4dStruct, cons…
+      0.0          4923276         77    63938.6    56831.0      3232    219518      67511.8  void tensorflow::functor::ColumnReduceKernel<const float *, float *, cub::Sum>(T1, T2, int, int, T3…
+      0.0          4849874         34   142643.4   137999.0     91103    193503      29153.6  volta_sgemm_64x32_sliced1x4_nn                                                                      
+      0.0          4546998         20   227349.9   228237.5    209534    278525      19848.5  void cudnn::detail::implicit_convolve_sgemm<float, float, (int)128, (int)6, (int)7, (int)3, (int)3,…
+      0.0          3584161         64    56002.5    50191.5     24127    128479      23889.8  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          3193058         34    93913.5    82847.0     39871    199102      41366.1  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0          3093340        128    24166.7    12288.0      3808     99071      22788.0  void tensorflow::functor::SwapDimension1And2InTensor3UsingTiles<unsigned int, (int)256, (int)32, (i…
+      0.0           927829        291     3188.4     2784.0      2432      5601        843.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           815486        257     3173.1     2752.0      2400      4833        859.7  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           672276         64    10504.3     9503.5      8736     12992       1654.4  void tensorflow::functor::ShuffleInTensor3Simple<float, (int)2, (int)1, (int)0, (bool)0>(int, const…
+      0.0           635354          6   105892.3   105151.0     92255    120735       9968.7  volta_sgemm_64x32_sliced1x4_nt                                                                      
+      0.0           347744        134     2595.1     2592.0      2272      2944         96.4  cudnn::gemm::computeOffsetsKernel(cudnn::gemm::ComputeOffsetsParams)                                
+      0.0           226236         63     3591.0     3584.0      3520      3744         49.6  void tensorflow::functor::SwapDimension1And2InTensor3UsingTiles<unsigned char, (int)256, (int)32, (…
+      0.0           187709         34     5520.9     5520.0      4959      7167        551.2  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           186176         64     2909.0     2912.0      2847      3072         33.1  void cub::DeviceReduceSingleTileKernel<cub::DeviceReducePolicy<int, int, cub::Sum>::Policy600, cons…
+      0.0           169469         64     2648.0     2592.0      2527      3232        145.2  void tensorflow::functor::BlockReduceKernel<float *, tensorflow::TransformOutputIterator<float, flo…
+      0.0           169055         64     2641.5     2688.0      2400      4096        233.3  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           155134         64     2424.0     2496.0      2208      2784        146.4  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0           152926         18     8495.9     8496.0      8415      8544         38.4  compute_gemm_pointers(float2 **, const float2 *, int, const float2 *, int, const float2 *, int, int)
+      0.0           148094         64     2314.0     2304.0      2240      2624         73.2  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0            99840         34     2936.5     2912.5      2880      3232         67.8  void tensorflow::functor::CleanupSegments<float *, float *, cub::Sum>(T1, T2, int, int, int, T3, st…
+      0.0            95805         34     2817.8     2752.0      2688      3009        118.7  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0            82144         34     2416.0     2432.0      2272      2656         93.6  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0            81473         34     2396.3     2400.0      2367      2656         51.5  void Eigen::internal::EigenMetaKernel<Eigen::TensorEvaluator<const Eigen::TensorAssignOp<Eigen::Ten…
+      0.0             3935          1     3935.0     3935.0      3935      3935          0.0  void tensorflow::functor::SwapDimension1And2InTensor3UsingTiles<unsigned char, (int)128, (int)8, (i…
+
+[7/8] Executing 'gpumemtimesum' stats report
+
+CUDA Memory Operation Statistics (by time):
+
+ Time (%)  Total Time (ns)  Count  Avg (ns)  Med (ns)  Min (ns)  Max (ns)  StdDev (ns)      Operation     
+ --------  ---------------  -----  --------  --------  --------  --------  -----------  ------------------
+     57.0        778116290   1319  589929.0    2273.0       768  35975999    2411875.4  [CUDA memcpy HtoD]
+     41.5        567413577   1802  314879.9    1120.0       960  10249787    1526788.9  [CUDA memcpy DtoH]
+      1.4         19078973   8894    2145.2     800.0       767     18816       4001.6  [CUDA memset]     
+      0.1          1601137     85   18836.9    2304.0      2175    470748      86937.0  [CUDA memcpy DtoD]
+
+[8/8] Executing 'gpumemsizesum' stats report
+
+CUDA Memory Operation Statistics (by size):
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)      Operation     
+ ----------  -----  --------  --------  --------  --------  -----------  ------------------
+   8548.134   1319     6.481     0.008     0.000   134.218       22.489  [CUDA memcpy HtoD]
+   7272.193   1802     4.036     0.000     0.000   134.218       20.002  [CUDA memcpy DtoH]
+   7116.055   8894     0.800     0.000     0.000     8.389        2.464  [CUDA memset]     
+    402.719     85     4.738     0.000     0.000   134.218       24.913  [CUDA memcpy DtoD]
+
+Generated:
+    /home/cc/keren/nvvp/nsys/nsys_baseline_half_batch32.nsys-rep
+    /home/cc/keren/nvvp/nsys/nsys_baseline_half_batch32.sqlite

@@ -1,0 +1,5 @@
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Enabling automatic mixed precision training.
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-6865
+I Loading variable from checkpoint: cond_1/beta1_power

@@ -1,0 +1,480 @@
+==PROF== Target process 12681 terminated before first instrumented API call.
+==PROF== Target process 12729 terminated before first instrumented API call.
+==PROF== Target process 12730 terminated before first instrumented API call.
+==PROF== Target process 12731 terminated before first instrumented API call.
+==PROF== Target process 12732 terminated before first instrumented API call.
+==PROF== Target process 12733 terminated before first instrumented API call.
+==PROF== Target process 12734 terminated before first instrumented API call.
+==PROF== Target process 12735 terminated before first instrumented API call.
+==PROF== Target process 12736 terminated before first instrumented API call.
+==PROF== Connected to process 12633 (/home/cc/keren/deepspeech-venv/bin/python3)
+==PROF== Target process 12737 terminated before first instrumented API call.
+==PROF== Target process 12738 terminated before first instrumented API call.
+==PROF== Target process 12739 terminated before first instrumented API call.
+==PROF== Target process 12740 terminated before first instrumented API call.
+==PROF== Target process 12741 terminated before first instrumented API call.
+==PROF== Target process 12742 terminated before first instrumented API call.
+==PROF== Target process 12743 terminated before first instrumented API call.
+==PROF== Target process 12744 terminated before first instrumented API call.
+==PROF== Target process 12745 terminated before first instrumented API call.
+==PROF== Target process 12746 terminated before first instrumented API call.
+==PROF== Target process 12747 terminated before first instrumented API call.
+==PROF== Target process 12748 terminated before first instrumented API call.
+==PROF== Target process 12749 terminated before first instrumented API call.
+==PROF== Target process 12750 terminated before first instrumented API call.
+==PROF== Target process 12751 terminated before first instrumented API call.
+==PROF== Target process 12752 terminated before first instrumented API call.
+==PROF== Target process 12753 terminated before first instrumented API call.
+==PROF== Target process 12754 terminated before first instrumented API call.
+==PROF== Target process 12755 terminated before first instrumented API call.
+==PROF== Target process 12756 terminated before first instrumented API call.
+==PROF== Target process 12757 terminated before first instrumented API call.
+Initializing NVTX monkey patches
+Done with NVTX monkey patching
+I Loading best validating checkpoint from /root/.local/share/deepspeech/checkpoints/best_dev-6865
+I Loading variable from checkpoint: beta1_power
+I Loading variable from checkpoint: beta2_power
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias/Adam_1
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel/Adam_1
+I Loading variable from checkpoint: global_step
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/bias/Adam
+I Loading variable from checkpoint: layer_1/bias/Adam_1
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_1/weights/Adam
+I Loading variable from checkpoint: layer_1/weights/Adam_1
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/bias/Adam
+I Loading variable from checkpoint: layer_2/bias/Adam_1
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_2/weights/Adam
+I Loading variable from checkpoint: layer_2/weights/Adam_1
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/bias/Adam
+I Loading variable from checkpoint: layer_3/bias/Adam_1
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_3/weights/Adam
+I Loading variable from checkpoint: layer_3/weights/Adam_1
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/bias/Adam
+I Loading variable from checkpoint: layer_5/bias/Adam_1
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_5/weights/Adam
+I Loading variable from checkpoint: layer_5/weights/Adam_1
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/bias/Adam
+I Loading variable from checkpoint: layer_6/bias/Adam_1
+I Loading variable from checkpoint: layer_6/weights
+I Loading variable from checkpoint: layer_6/weights/Adam
+I Loading variable from checkpoint: layer_6/weights/Adam_1
+I Loading variable from checkpoint: learning_rate
+I STARTING Optimization
+Epoch 0 |   Training | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000
+==PROF== Profiling "EigenMetaKernel" - 1: 0%
+==WARNING== Backing up device memory in system memory. Kernel replay might be slow. Consider using "--replay-mode application" to avoid memory save-and-restore.
+
+==WARNING== Backing up device memory in system memory. Kernel replay might be slow. Consider using "--replay-mode application" to avoid memory save-and-restore.
+....50%....100% - 8 passes
+==PROF== Target process 12968 terminated before first instrumented API call.
+==PROF== Target process 12969 terminated before first instrumented API call.
+==PROF== Target process 12970 terminated before first instrumented API call.
+==PROF== Target process 12971 terminated before first instrumented API call.
+==PROF== Target process 12972 terminated before first instrumented API call.
+==PROF== Target process 12973 terminated before first instrumented API call.
+==PROF== Target process 12974 terminated before first instrumented API call.
+==PROF== Target process 12975 terminated before first instrumented API call.
+==PROF== Target process 12976 terminated before first instrumented API call.
+==PROF== Target process 12977 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 2: 0%....50%....100% - 8 passes
+==PROF== Target process 12978 terminated before first instrumented API call.
+==PROF== Target process 12979 terminated before first instrumented API call.
+==PROF== Target process 12980 terminated before first instrumented API call.
+==PROF== Target process 12981 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 3: 0%....50%....100% - 8 passes
+==PROF== Target process 12982 terminated before first instrumented API call.
+==PROF== Target process 12983 terminated before first instrumented API call.
+==PROF== Target process 12984 terminated before first instrumented API call.
+==PROF== Target process 12985 terminated before first instrumented API call.
+==PROF== Target process 12986 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 4: 0%....50%....100% - 8 passes
+==PROF== Target process 12987 terminated before first instrumented API call.
+==PROF== Target process 12988 terminated before first instrumented API call.
+==PROF== Target process 12989 terminated before first instrumented API call.
+==PROF== Target process 12990 terminated before first instrumented API call.
+==PROF== Target process 12991 terminated before first instrumented API call.
+==PROF== Target process 12992 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 5: 0%....50%....100% - 8 passes
+==PROF== Target process 12993 terminated before first instrumented API call.
+==PROF== Target process 12994 terminated before first instrumented API call.
+==PROF== Target process 12995 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 6: 0%....50%....100% - 8 passes
+==PROF== Target process 12996 terminated before first instrumented API call.
+==PROF== Target process 12997 terminated before first instrumented API call.
+==PROF== Target process 12998 terminated before first instrumented API call.
+==PROF== Target process 13000 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 7: 0%....50%....100% - 8 passes
+==PROF== Target process 13001 terminated before first instrumented API call.
+==PROF== Target process 13002 terminated before first instrumented API call.
+==PROF== Target process 13003 terminated before first instrumented API call.
+==PROF== Target process 13004 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 8: 0%....50%....100% - 8 passes
+==PROF== Target process 13005 terminated before first instrumented API call.
+==PROF== Target process 13006 terminated before first instrumented API call.
+==PROF== Target process 13007 terminated before first instrumented API call.
+==PROF== Target process 13008 terminated before first instrumented API call.
+==PROF== Target process 13009 terminated before first instrumented API call.
+==PROF== Target process 13010 terminated before first instrumented API call.
+==PROF== Target process 13011 terminated before first instrumented API call.
+==PROF== Target process 13012 terminated before first instrumented API call.
+==PROF== Target process 13013 terminated before first instrumented API call.
+==PROF== Target process 13014 terminated before first instrumented API call.
+==PROF== Target process 13015 terminated before first instrumented API call.
+==PROF== Target process 13016 terminated before first instrumented API call.
+Epoch 0 |   Training | Elapsed Time: 0:02:57 | Steps: 0 | Loss: 0.000000
+Epoch 0 | Validation | Elapsed Time: 0:00:00 | Steps: 0 | Loss: 0.000000 | Dataset: set/clips/small_dev.csv
+==PROF== Profiling "EigenMetaKernel" - 9: 0%....50%....100% - 8 passes
+==PROF== Target process 13272 terminated before first instrumented API call.
+==PROF== Target process 13273 terminated before first instrumented API call.
+==PROF== Target process 13274 terminated before first instrumented API call.
+==PROF== Target process 13275 terminated before first instrumented API call.
+==PROF== Target process 13276 terminated before first instrumented API call.
+==PROF== Target process 13277 terminated before first instrumented API call.
+==PROF== Target process 13278 terminated before first instrumented API call.
+==PROF== Target process 13279 terminated before first instrumented API call.
+==PROF== Target process 13280 terminated before first instrumented API call.
+==PROF== Target process 13294 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 10: 0%....50%....100% - 8 passes
+==PROF== Target process 13295 terminated before first instrumented API call.
+==PROF== Target process 13296 terminated before first instrumented API call.
+==PROF== Target process 13297 terminated before first instrumented API call.
+==PROF== Target process 13298 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 11: 0%....50%....100% - 8 passes
+==PROF== Target process 13299 terminated before first instrumented API call.
+==PROF== Target process 13300 terminated before first instrumented API call.
+==PROF== Target process 13301 terminated before first instrumented API call.
+==PROF== Target process 13302 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 12: 0%....50%....100% - 8 passes
+==PROF== Target process 13303 terminated before first instrumented API call.
+==PROF== Target process 13304 terminated before first instrumented API call.
+==PROF== Target process 13305 terminated before first instrumented API call.
+==PROF== Target process 13306 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 13: 0%....50%....100% - 8 passes
+==PROF== Target process 13307 terminated before first instrumented API call.
+==PROF== Target process 13308 terminated before first instrumented API call.
+==PROF== Target process 13310 terminated before first instrumented API call.
+==PROF== Target process 13311 terminated before first instrumented API call.
+==PROF== Target process 13312 terminated before first instrumented API call.
+==PROF== Target process 13313 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 14: 0%....50%....100% - 8 passes
+==PROF== Target process 13314 terminated before first instrumented API call.
+==PROF== Target process 13315 terminated before first instrumented API call.
+==PROF== Target process 13316 terminated before first instrumented API call.
+==PROF== Target process 13317 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 15: 0%....50%....100% - 8 passes
+==PROF== Target process 13318 terminated before first instrumented API call.
+==PROF== Target process 13319 terminated before first instrumented API call.
+==PROF== Target process 13320 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 16: 0%....50%....100% - 8 passes
+==PROF== Target process 13321 terminated before first instrumented API call.
+==PROF== Target process 13322 terminated before first instrumented API call.
+==PROF== Target process 13323 terminated before first instrumented API call.
+==PROF== Target process 13324 terminated before first instrumented API call.
+==PROF== Target process 13325 terminated before first instrumented API call.
+==PROF== Target process 13326 terminated before first instrumented API call.
+==PROF== Target process 13327 terminated before first instrumented API call.
+==PROF== Target process 13328 terminated before first instrumented API call.
+==PROF== Target process 13329 terminated before first instrumented API call.
+==PROF== Target process 13330 terminated before first instrumented API call.
+==PROF== Target process 13331 terminated before first instrumented API call.
+==PROF== Profiling "EigenMetaKernel" - 17: 0%....50%....100% - 8 passes
+==PROF== Target process 13332 terminated before first instrumented API call.
+==PROF== Target process 13333 terminated before first instrumented API call.
+==PROF== Profiling "SwapDimension1And2InTensor3Us..." - 18: 0%....50%....100% - 8 passes
+==PROF== Profiling "ShuffleInTensor3Simple" - 19: 0%....50%....100% - 8 passes
+==PROF== Profiling "implicit_convolve_sgemm" - 20: 0%....50%....100% - 8 passes
+==PROF== Target process 13701 terminated before first instrumented API call.
+==PROF== Target process 13702 terminated before first instrumented API call.
+==PROF== Profiling "redzone_checker" - 21: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 22: 0%....50%....100% - 8 passes
+==PROF== Profiling "implicit_convolve_sgemm" - 23: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 24: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 25: 0%....50%....100% - 8 passes
+==PROF== Profiling "computeOffsetsKernel" - 26: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_scudnn_128x64_relu_smal..." - 27: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 28: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 29: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 30: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 31: 0%....50%....100% - 8 passes
+==PROF== Profiling "computeOffsetsKernel" - 32: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_scudnn_128x64_relu_smal..." - 33: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 34: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 35: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 36: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 37: 0%....50%....100% - 8 passes
+==PROF== Profiling "im2col4d_kernel" - 38: 0%....50%....100% - 8 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 39: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 40: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 41: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 42: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 43: 0%....50%....100% - 8 passes
+==PROF== Profiling "im2col4d_kernel" - 44: 0%....50%....100% - 8 passes
+==PROF== Profiling "explicit_convolve_sgemm" - 45: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 46: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 47: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 48: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 49: 0%....50%....100% - 8 passes
+==PROF== Profiling "fft1d_r2c_256" - 50: 0%....50%....100% - 8 passes
+==PROF== Profiling "fft1d_r2c_256" - 51: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_gcgemm_32x32_nt" - 52: 0%....50%....100% - 8 passes
+==PROF== Profiling "fft1d_c2r_256" - 53: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 54: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 55: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 56: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 57: 0%....50%....100% - 8 passes
+==PROF== Profiling "fft1d_r2c_256" - 58: 0%....50%....100% - 8 passes
+==PROF== Profiling "fft1d_r2c_256" - 59: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_gcgemm_32x32_nt" - 60: 0%....50%....100% - 8 passes
+==PROF== Profiling "fft1d_c2r_256" - 61: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 62: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 63: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 64: 0%....50%....100% - 8 passes
+==PROF== Profiling "redzone_checker" - 65: 0%....50%....100% - 8 passes
+==PROF== Profiling "implicit_convolve_sgemm" - 66: 0%....50%....100% - 8 passes
+==PROF== Profiling "SwapDimension1And2InTensor3Us..." - 67: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 68: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_sgemm_128x64_nn" - 69: 0%....50%....100% - 8 passes
+==PROF== Profiling "BiasNHWCKernel" - 70: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 71: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 72: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 73: 0%....50%....100% - 8 passes
+==PROF== Profiling "FillPhiloxRandomKernelLaunch" - 74: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 75: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 76: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 77: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_sgemm_128x64_nn" - 78: 0%....50%....100% - 8 passes
+==PROF== Profiling "BiasNHWCKernel" - 79: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 80: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 81: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 82: 0%....50%....100% - 8 passes
+==PROF== Profiling "FillPhiloxRandomKernelLaunch" - 83: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 84: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 85: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 86: 0%....50%....100% - 8 passes
+==PROF== Profiling "volta_sgemm_128x64_nn" - 87: 0%....50%....100% - 8 passes
+==PROF== Profiling "BiasNHWCKernel" - 88: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 89: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 90: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 91: 0%....50%....100% - 8 passes
+==PROF== Profiling "FillPhiloxRandomKernelLaunch" - 92: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 93: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 94: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 95: 0%....50%....100% - 8 passes
+==PROF== Profiling "EigenMetaKernel" - 96: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 97: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 98: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 99: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 100: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 101: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 102: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 103: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 104: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 105: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 106: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 107: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 108: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 109: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 110: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 111: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 112: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 113: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 114: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 115: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 116: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 117: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 118: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 119: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 120: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 121: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 122: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 123: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 124: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 125: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 126: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 127: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 128: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 129: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 130: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 131: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 132: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 133: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 134: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 135: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 136: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 137: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 138: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 139: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 140: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 141: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 142: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 143: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 144: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 145: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 146: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 147: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 148: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 149: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 150: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 151: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 152: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 153: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 154: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 155: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 156: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 157: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 158: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 159: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 160: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 161: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 162: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 163: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 164: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 165: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 166: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 167: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 168: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 169: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 170: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 171: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 172: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 173: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 174: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 175: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 176: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 177: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 178: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 179: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 180: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 181: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 182: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 183: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 184: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 185: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 186: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 187: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 188: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 189: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 190: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 191: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 192: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 193: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 194: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 195: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 196: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 197: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 198: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 199: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 200: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 201: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 202: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 203: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 204: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 205: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 206: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 207: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 208: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 209: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 210: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 211: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 212: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 213: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 214: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 215: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 216: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 217: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 218: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 219: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 220: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 221: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 222: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 223: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 224: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 225: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 226: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 227: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 228: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 229: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 230: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 231: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 232: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 233: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 234: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 235: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 236: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 237: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 238: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 239: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 240: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 241: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 242: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 243: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 244: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 245: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 246: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 247: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 248: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 249: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 250: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 251: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 252: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 253: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 254: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 255: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 256: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 257: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 258: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 259: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 260: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 261: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 262: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 263: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 264: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 265: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 266: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 267: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 268: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 269: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 270: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 271: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 272: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 273: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 274: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 275: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 276: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 277: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 278: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 279: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 280: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 281: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 282: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 283: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 284: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 285: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 286: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 287: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 288: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 289: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 290: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 291: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 292: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 293: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 294: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 295: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 296: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 297: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 298: 0%....50%....100% - 8 passes
+==PROF== Profiling "gemmSN_NN_kernel" - 299: 0%....50%....100% - 8 passes
+==PROF== Profiling "_ZN10tensorflow7functor86_GLO..." - 300: 
